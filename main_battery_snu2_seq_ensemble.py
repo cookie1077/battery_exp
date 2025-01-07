@@ -10,7 +10,6 @@ from sklearn.linear_model import LinearRegression, ElasticNet, Ridge
 from sklearn.decomposition import PCA
 from sklearn.cross_decomposition import PLSRegression
 from sklearn.ensemble import RandomForestRegressor
-import xgboost as xgb
 import os
 import csv
 import warnings

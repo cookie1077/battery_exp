@@ -24,11 +24,11 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 Experiments using the single feature for thesis
 """
 ####################################################################################
-seq_length = 30
+seq_length = 3
 ####################################################################################
 data_path = "dataset_snu2_240826/"
-model_path = f"../output/Model_Thesis/model_snu2_Selected_13Features_{seq_length}Seq/"
-result_path = f"../output/Results_Thesis/results_snu2_Selected_13Features_{seq_length}Seq/"
+model_path = f"Model_Thesis/model_snu2_Selected_13Features_{seq_length}Seq/"
+result_path = f"Results_Thesis/results_snu2_Selected_13Features_{seq_length}Seq/"
 
 
 try:

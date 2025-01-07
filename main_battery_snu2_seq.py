@@ -26,7 +26,7 @@ Experiments using the single feature for thesis
 ####################################################################################
 seq_length = 30
 ####################################################################################
-data_path = "Dataset/dataset_snu2_240826/"
+data_path = "dataset_snu2_240826/"
 model_path = f"Model_Thesis/model_snu2_Selected_13Features_{seq_length}Seq/"
 result_path = f"Results_Thesis/results_snu2_Selected_13Features_{seq_length}Seq/"
 

@@ -28,7 +28,7 @@ seq_length = 30
 ####################################################################################
 
 ####################################################################################
-data_path = "Dataset/dataset_snu2_240826/"
+data_path = "dataset_snu2_240826/"
 result_path = f"Results_Thesis/results_snu2_Selected_Ensemble_13Features_{seq_length}Seq/"
 
 try:

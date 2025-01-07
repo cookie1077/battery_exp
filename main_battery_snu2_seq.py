@@ -27,8 +27,8 @@ Experiments using the single feature for thesis
 seq_length = 30
 ####################################################################################
 data_path = "dataset_snu2_240826/"
-model_path = f"Model_Thesis/model_snu2_Selected_13Features_{seq_length}Seq/"
-result_path = f"Results_Thesis/results_snu2_Selected_13Features_{seq_length}Seq/"
+model_path = f"../output/Model_Thesis/model_snu2_Selected_13Features_{seq_length}Seq/"
+result_path = f"../output/Results_Thesis/results_snu2_Selected_13Features_{seq_length}Seq/"
 
 
 try:
@@ -950,7 +950,7 @@ def run_experiment_transformer(iteration, num_selected, seed, seq_length):
     print(f"[Transformer] Experiment {iteration} completed and results saved.")
     print("")
 
-for i in range(100):
+for i in range(1):
     seed = 17 * i
     num_selected = [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152]
 

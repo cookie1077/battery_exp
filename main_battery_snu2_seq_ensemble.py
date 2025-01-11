@@ -24,7 +24,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 ####################################################################################
 
 ####################################################################################
-seq_length = 30
+seq_length = 2
 ####################################################################################
 
 ####################################################################################
@@ -81,7 +81,7 @@ results_filename = os.path.join(result_path, f"results_ensemble.txt")
 for iteration in range(100):
     seed = 17 * iteration
 
-    model_path = f"Model_Thesis/model_snu2_Selected_13Features_{seq_length}/{iteration}/"
+    model_path = f"Model_Thesis/model_snu2_Selected_13Features_{seq_length}Seq/{iteration}/"
 
     # Initialize the weights
     weights = torch.tensor([0.25, 0.25, 0.25, 0.25], requires_grad=True)

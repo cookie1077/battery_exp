@@ -1,0 +1,3200 @@
+Iteration 0 // dataset_snu_cell_12_f
+RMSE: 33.59886169433594
+R2: 0.9755271077156067
+
+Iteration 0 // dataset_snu_cell_03_n
+RMSE: 30.89348793029785
+R2: 0.9821048378944397
+
+Iteration 0 // dataset_snu_cell_01_f
+RMSE: 29.968143463134766
+R2: 0.9838542938232422
+
+Iteration 0 // dataset_snu_cell_02_f
+RMSE: 26.53571891784668
+R2: 0.9877933263778687
+
+Iteration 0 // dataset_snu_cell_04_n
+RMSE: 23.422813415527344
+R2: 0.989504337310791
+
+Iteration 0 // dataset_snu_cell_09_f
+RMSE: 32.48357391357422
+R2: 0.9804116487503052
+
+Iteration 0, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 0, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.4837703704834, Std Dev: 3.5019264221191406
+Average R2: 0.9831992586453756, Std Dev: 0.004638946934890518
+Data Name with Highest RMSE: dataset_snu_cell_12_f, RMSE: 33.59886169433594
+Data Name with Smallest R2: dataset_snu_cell_12_f, R2: 0.9755271077156067
+
+=============================================================================
+
+Iteration 1 // dataset_snu_cell_13_f
+RMSE: 32.68510437011719
+R2: 0.9768401384353638
+
+Iteration 1 // dataset_snu_cell_04_n
+RMSE: 18.42254638671875
+R2: 0.9935072064399719
+
+Iteration 1 // dataset_snu_cell_09_f
+RMSE: 29.17864227294922
+R2: 0.984194815158844
+
+Iteration 1 // dataset_snu_cell_07_f
+RMSE: 51.09613800048828
+R2: 0.9362438321113586
+
+Iteration 1 // dataset_snu_cell_11_f
+RMSE: 22.67905044555664
+R2: 0.990684986114502
+
+Iteration 1 // dataset_snu_cell_02_n
+RMSE: 67.76153564453125
+R2: 0.9058488607406616
+
+Iteration 1, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 17, Epochs: 1000, Sequence Length: 30
+Average RMSE: 36.97050094604492, Std Dev: 17.19966697692871
+Average R2: 0.964553306500117, Std Dev: 0.03241806696551694
+Data Name with Highest RMSE: dataset_snu_cell_02_n, RMSE: 67.76153564453125
+Data Name with Smallest R2: dataset_snu_cell_02_n, R2: 0.9058488607406616
+
+=============================================================================
+
+Iteration 2 // dataset_snu_cell_14_f
+RMSE: 23.544260025024414
+R2: 0.9884833693504333
+
+Iteration 2 // dataset_snu_cell_10_f
+RMSE: 44.17933654785156
+R2: 0.9632197618484497
+
+Iteration 2 // dataset_snu_cell_03_f
+RMSE: 19.69363021850586
+R2: 0.9932766556739807
+
+Iteration 2 // dataset_snu_cell_07_f
+RMSE: 52.5075569152832
+R2: 0.932672917842865
+
+Iteration 2 // dataset_snu_cell_09_n
+RMSE: 35.70245361328125
+R2: 0.9732370376586914
+
+Iteration 2 // dataset_snu_cell_13_f
+RMSE: 40.6894645690918
+R2: 0.9641078114509583
+
+Iteration 2, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 34, Epochs: 1000, Sequence Length: 30
+Average RMSE: 36.05278396606445, Std Dev: 11.420063018798828
+Average R2: 0.9691662589708964, Std Dev: 0.019848366380076147
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 52.5075569152832
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.932672917842865
+
+=============================================================================
+
+Iteration 3 // dataset_snu_cell_09_n
+RMSE: 22.25981330871582
+R2: 0.989596426486969
+
+Iteration 3 // dataset_snu_cell_08_n
+RMSE: 13.3446044921875
+R2: 0.99634850025177
+
+Iteration 3 // dataset_snu_cell_03_f
+RMSE: 13.911042213439941
+R2: 0.9966452717781067
+
+Iteration 3 // dataset_snu_cell_16_f
+RMSE: 11.569501876831055
+R2: 0.9972696304321289
+
+Iteration 3 // dataset_snu_cell_03_n
+RMSE: 34.91341018676758
+R2: 0.977144718170166
+
+Iteration 3 // dataset_snu_cell_11_n
+RMSE: 27.3514404296875
+R2: 0.9848587512969971
+
+Iteration 3, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 51, Epochs: 1000, Sequence Length: 30
+Average RMSE: 20.55830192565918, Std Dev: 8.486587524414062
+Average R2: 0.990310549736023, Std Dev: 0.007400287753088904
+Data Name with Highest RMSE: dataset_snu_cell_03_n, RMSE: 34.91341018676758
+Data Name with Smallest R2: dataset_snu_cell_03_n, R2: 0.977144718170166
+
+=============================================================================
+
+Iteration 4 // dataset_snu_cell_15_n
+RMSE: 111.94495391845703
+R2: 0.6650024652481079
+
+Iteration 4 // dataset_snu_cell_06_n
+RMSE: 43.89480972290039
+R2: 0.9584538340568542
+
+Iteration 4 // dataset_snu_cell_01_f
+RMSE: 29.063661575317383
+R2: 0.9848141670227051
+
+Iteration 4 // dataset_snu_cell_02_n
+RMSE: 42.26008987426758
+R2: 0.9633798599243164
+
+Iteration 4 // dataset_snu_cell_13_f
+RMSE: 42.82899856567383
+R2: 0.9602339863777161
+
+Iteration 4 // dataset_snu_cell_08_f
+RMSE: 41.74543762207031
+R2: 0.9669954180717468
+
+Iteration 4, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 68, Epochs: 1000, Sequence Length: 30
+Average RMSE: 51.956329345703125, Std Dev: 27.292505264282227
+Average R2: 0.9164799551169077, Std Dev: 0.11279637055391863
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 111.94495391845703
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.6650024652481079
+
+=============================================================================
+
+Iteration 5 // dataset_snu_cell_12_f
+RMSE: 44.689579010009766
+R2: 0.9567039012908936
+
+Iteration 5 // dataset_snu_cell_16_f
+RMSE: 10.865952491760254
+R2: 0.9975916147232056
+
+Iteration 5 // dataset_snu_cell_14_f
+RMSE: 15.308916091918945
+R2: 0.9951309561729431
+
+Iteration 5 // dataset_snu_cell_05_n
+RMSE: 91.27422332763672
+R2: 0.8027947545051575
+
+Iteration 5 // dataset_snu_cell_15_f
+RMSE: 14.758811950683594
+R2: 0.9955568313598633
+
+Iteration 5 // dataset_snu_cell_02_f
+RMSE: 18.001914978027344
+R2: 0.9943821430206299
+
+Iteration 5, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 85, Epochs: 1000, Sequence Length: 30
+Average RMSE: 32.48323440551758, Std Dev: 28.55259132385254
+Average R2: 0.9570267001787821, Std Dev: 0.07043323552722434
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 91.27422332763672
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8027947545051575
+
+=============================================================================
+
+Iteration 6 // dataset_snu_cell_10_f
+RMSE: 40.044960021972656
+R2: 0.9697815775871277
+
+Iteration 6 // dataset_snu_cell_02_f
+RMSE: 21.950340270996094
+R2: 0.991647481918335
+
+Iteration 6 // dataset_snu_cell_11_n
+RMSE: 27.433895111083984
+R2: 0.9847673773765564
+
+Iteration 6 // dataset_snu_cell_03_n
+RMSE: 34.46763229370117
+R2: 0.9777246117591858
+
+Iteration 6 // dataset_snu_cell_04_n
+RMSE: 21.168203353881836
+R2: 0.9914276599884033
+
+Iteration 6 // dataset_snu_cell_08_n
+RMSE: 15.1290864944458
+R2: 0.9953066110610962
+
+Iteration 6, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 102, Epochs: 1000, Sequence Length: 30
+Average RMSE: 26.699020385742188, Std Dev: 8.426236152648926
+Average R2: 0.9851092199484507, Std Dev: 0.008909211098998553
+Data Name with Highest RMSE: dataset_snu_cell_10_f, RMSE: 40.044960021972656
+Data Name with Smallest R2: dataset_snu_cell_10_f, R2: 0.9697815775871277
+
+=============================================================================
+
+Iteration 7 // dataset_snu_cell_04_n
+RMSE: 16.02523422241211
+R2: 0.9950870871543884
+
+Iteration 7 // dataset_snu_cell_10_f
+RMSE: 35.99991989135742
+R2: 0.9755781292915344
+
+Iteration 7 // dataset_snu_cell_09_f
+RMSE: 26.58422088623047
+R2: 0.9868804812431335
+
+Iteration 7 // dataset_snu_cell_07_n
+RMSE: 18.468429565429688
+R2: 0.9933579564094543
+
+Iteration 7 // dataset_snu_cell_07_f
+RMSE: 45.972023010253906
+R2: 0.9483900666236877
+
+Iteration 7 // dataset_snu_cell_15_f
+RMSE: 12.515050888061523
+R2: 0.9968051314353943
+
+Iteration 7, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 119, Epochs: 1000, Sequence Length: 30
+Average RMSE: 25.927480697631836, Std Dev: 11.81280517578125
+Average R2: 0.9826831420262655, Std Dev: 0.016888625288230725
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 45.972023010253906
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9483900666236877
+
+=============================================================================
+
+Iteration 8 // dataset_snu_cell_08_f
+RMSE: 45.26751708984375
+R2: 0.9611912965774536
+
+Iteration 8 // dataset_snu_cell_01_f
+RMSE: 31.788379669189453
+R2: 0.9818333387374878
+
+Iteration 8 // dataset_snu_cell_02_n
+RMSE: 128.3754425048828
+R2: 0.6620728969573975
+
+Iteration 8 // dataset_snu_cell_06_n
+RMSE: 42.68955612182617
+R2: 0.9607040882110596
+
+Iteration 8 // dataset_snu_cell_09_f
+RMSE: 33.7558479309082
+R2: 0.9788472056388855
+
+Iteration 8 // dataset_snu_cell_10_f
+RMSE: 44.82126998901367
+R2: 0.9621431827545166
+
+Iteration 8, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 136, Epochs: 1000, Sequence Length: 30
+Average RMSE: 54.44966506958008, Std Dev: 33.471649169921875
+Average R2: 0.9177986681461334, Std Dev: 0.11468308816531497
+Data Name with Highest RMSE: dataset_snu_cell_02_n, RMSE: 128.3754425048828
+Data Name with Smallest R2: dataset_snu_cell_02_n, R2: 0.6620728969573975
+
+=============================================================================
+
+Iteration 9 // dataset_snu_cell_03_n
+RMSE: 28.509441375732422
+R2: 0.9847602248191833
+
+Iteration 9 // dataset_snu_cell_07_n
+RMSE: 22.88888931274414
+R2: 0.989797830581665
+
+Iteration 9 // dataset_snu_cell_07_f
+RMSE: 62.63098907470703
+R2: 0.9042090177536011
+
+Iteration 9 // dataset_snu_cell_15_n
+RMSE: 105.47681427001953
+R2: 0.702596127986908
+
+Iteration 9 // dataset_snu_cell_03_f
+RMSE: 25.298856735229492
+R2: 0.9889047741889954
+
+Iteration 9 // dataset_snu_cell_04_n
+RMSE: 26.036592483520508
+R2: 0.9870312213897705
+
+Iteration 9, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 153, Epochs: 1000, Sequence Length: 30
+Average RMSE: 45.140262603759766, Std Dev: 30.212482452392578
+Average R2: 0.9262165327866873, Std Dev: 0.10455349781080345
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 105.47681427001953
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.702596127986908
+
+=============================================================================
+
+Iteration 10 // dataset_snu_cell_05_f
+RMSE: 70.54087829589844
+R2: 0.8788315057754517
+
+Iteration 10 // dataset_snu_cell_07_f
+RMSE: 63.5783576965332
+R2: 0.9012892246246338
+
+Iteration 10 // dataset_snu_cell_09_f
+RMSE: 33.80127716064453
+R2: 0.9787902235984802
+
+Iteration 10 // dataset_snu_cell_10_f
+RMSE: 44.99602127075195
+R2: 0.9618473649024963
+
+Iteration 10 // dataset_snu_cell_13_f
+RMSE: 36.813358306884766
+R2: 0.970620334148407
+
+Iteration 10 // dataset_snu_cell_08_f
+RMSE: 41.99852752685547
+R2: 0.9665940403938293
+
+Iteration 10, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 170, Epochs: 1000, Sequence Length: 30
+Average RMSE: 48.62139892578125, Std Dev: 13.664100646972656
+Average R2: 0.9429954489072164, Std Dev: 0.03832559888368314
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 70.54087829589844
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.8788315057754517
+
+=============================================================================
+
+Iteration 11 // dataset_snu_cell_09_n
+RMSE: 24.582365036010742
+R2: 0.9873121976852417
+
+Iteration 11 // dataset_snu_cell_04_f
+RMSE: 24.04473876953125
+R2: 0.9895806312561035
+
+Iteration 11 // dataset_snu_cell_16_f
+RMSE: 15.31771183013916
+R2: 0.9952139258384705
+
+Iteration 11 // dataset_snu_cell_02_n
+RMSE: 31.32703971862793
+R2: 0.9798767566680908
+
+Iteration 11 // dataset_snu_cell_11_n
+RMSE: 32.4152946472168
+R2: 0.9787333011627197
+
+Iteration 11 // dataset_snu_cell_07_f
+RMSE: 43.890464782714844
+R2: 0.9529579281806946
+
+Iteration 11, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 187, Epochs: 1000, Sequence Length: 30
+Average RMSE: 28.596267700195312, Std Dev: 8.842157363891602
+Average R2: 0.9806124567985535, Std Dev: 0.013585304639174728
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 43.890464782714844
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9529579281806946
+
+=============================================================================
+
+Iteration 12 // dataset_snu_cell_06_f
+RMSE: 27.239530563354492
+R2: 0.9860876202583313
+
+Iteration 12 // dataset_snu_cell_06_n
+RMSE: 41.130348205566406
+R2: 0.9635221362113953
+
+Iteration 12 // dataset_snu_cell_07_f
+RMSE: 44.66872024536133
+R2: 0.9512748718261719
+
+Iteration 12 // dataset_snu_cell_02_n
+RMSE: 125.06005096435547
+R2: 0.6793019771575928
+
+Iteration 12 // dataset_snu_cell_14_f
+RMSE: 13.424216270446777
+R2: 0.9962560534477234
+
+Iteration 12 // dataset_snu_cell_05_n
+RMSE: 80.76716613769531
+R2: 0.8455841541290283
+
+Iteration 12, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 204, Epochs: 1000, Sequence Length: 30
+Average RMSE: 55.38167190551758, Std Dev: 37.34919738769531
+Average R2: 0.9036711355050405, Std Dev: 0.11174995794909416
+Data Name with Highest RMSE: dataset_snu_cell_02_n, RMSE: 125.06005096435547
+Data Name with Smallest R2: dataset_snu_cell_02_n, R2: 0.6793019771575928
+
+=============================================================================
+
+Iteration 13 // dataset_snu_cell_02_n
+RMSE: 130.77200317382812
+R2: 0.6493380069732666
+
+Iteration 13 // dataset_snu_cell_11_f
+RMSE: 21.399316787719727
+R2: 0.9917066097259521
+
+Iteration 13 // dataset_snu_cell_15_n
+RMSE: 103.65098571777344
+R2: 0.7128032445907593
+
+Iteration 13 // dataset_snu_cell_03_f
+RMSE: 17.244844436645508
+R2: 0.9948446750640869
+
+Iteration 13 // dataset_snu_cell_07_n
+RMSE: 17.16938018798828
+R2: 0.9942594766616821
+
+Iteration 13 // dataset_snu_cell_04_n
+RMSE: 21.296764373779297
+R2: 0.9913232326507568
+
+Iteration 13, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 221, Epochs: 1000, Sequence Length: 30
+Average RMSE: 51.92221450805664, Std Dev: 46.856163024902344
+Average R2: 0.8890458742777506, Std Dev: 0.14820284476554815
+Data Name with Highest RMSE: dataset_snu_cell_02_n, RMSE: 130.77200317382812
+Data Name with Smallest R2: dataset_snu_cell_02_n, R2: 0.6493380069732666
+
+=============================================================================
+
+Iteration 14 // dataset_snu_cell_02_f
+RMSE: 24.327423095703125
+R2: 0.9897404909133911
+
+Iteration 14 // dataset_snu_cell_09_n
+RMSE: 30.755752563476562
+R2: 0.980139434337616
+
+Iteration 14 // dataset_snu_cell_13_f
+RMSE: 34.01311492919922
+R2: 0.9749199151992798
+
+Iteration 14 // dataset_snu_cell_15_f
+RMSE: 16.393075942993164
+R2: 0.9945183396339417
+
+Iteration 14 // dataset_snu_cell_06_n
+RMSE: 48.01961898803711
+R2: 0.9502787590026855
+
+Iteration 14 // dataset_snu_cell_13_n
+RMSE: 26.15557098388672
+R2: 0.9859355092048645
+
+Iteration 14, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 238, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.944091796875, Std Dev: 9.776420593261719
+Average R2: 0.9792554080486298, Std Dev: 0.014414934300778455
+Data Name with Highest RMSE: dataset_snu_cell_06_n, RMSE: 48.01961898803711
+Data Name with Smallest R2: dataset_snu_cell_06_n, R2: 0.9502787590026855
+
+=============================================================================
+
+Iteration 15 // dataset_snu_cell_15_n
+RMSE: 104.94304656982422
+R2: 0.7055985331535339
+
+Iteration 15 // dataset_snu_cell_07_n
+RMSE: 19.64720916748047
+R2: 0.9924830198287964
+
+Iteration 15 // dataset_snu_cell_08_f
+RMSE: 47.776275634765625
+R2: 0.9567704796791077
+
+Iteration 15 // dataset_snu_cell_09_f
+RMSE: 35.81620407104492
+R2: 0.976186215877533
+
+Iteration 15 // dataset_snu_cell_12_f
+RMSE: 36.34619140625
+R2: 0.9713612794876099
+
+Iteration 15 // dataset_snu_cell_11_n
+RMSE: 37.568241119384766
+R2: 0.971434473991394
+
+Iteration 15, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 255, Epochs: 1000, Sequence Length: 30
+Average RMSE: 47.01619338989258, Std Dev: 27.183670043945312
+Average R2: 0.9289723336696625, Std Dev: 0.10044169593714852
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 104.94304656982422
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7055985331535339
+
+=============================================================================
+
+Iteration 16 // dataset_snu_cell_11_f
+RMSE: 22.66591453552246
+R2: 0.9906957745552063
+
+Iteration 16 // dataset_snu_cell_03_n
+RMSE: 27.581600189208984
+R2: 0.9857360124588013
+
+Iteration 16 // dataset_snu_cell_02_n
+RMSE: 28.93852424621582
+R2: 0.9828283786773682
+
+Iteration 16 // dataset_snu_cell_04_f
+RMSE: 27.651317596435547
+R2: 0.9862204790115356
+
+Iteration 16 // dataset_snu_cell_07_f
+RMSE: 46.04479217529297
+R2: 0.9482265710830688
+
+Iteration 16 // dataset_snu_cell_02_f
+RMSE: 20.567577362060547
+R2: 0.9926666617393494
+
+Iteration 16, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 272, Epochs: 1000, Sequence Length: 30
+Average RMSE: 28.908287048339844, Std Dev: 8.221267700195312
+Average R2: 0.9810623129208883, Std Dev: 0.01504005523951472
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 46.04479217529297
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9482265710830688
+
+=============================================================================
+
+Iteration 17 // dataset_snu_cell_08_n
+RMSE: 14.107396125793457
+R2: 0.9959191083908081
+
+Iteration 17 // dataset_snu_cell_09_n
+RMSE: 33.878196716308594
+R2: 0.9759020805358887
+
+Iteration 17 // dataset_snu_cell_01_n
+RMSE: 20.731266021728516
+R2: 0.9915011525154114
+
+Iteration 17 // dataset_snu_cell_16_f
+RMSE: 16.733551025390625
+R2: 0.9942882657051086
+
+Iteration 17 // dataset_snu_cell_04_n
+RMSE: 21.63629913330078
+R2: 0.9910443425178528
+
+Iteration 17 // dataset_snu_cell_14_f
+RMSE: 18.938003540039062
+R2: 0.9925488233566284
+
+Iteration 17, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 289, Epochs: 1000, Sequence Length: 30
+Average RMSE: 21.004117965698242, Std Dev: 6.27544641494751
+Average R2: 0.9902006288369497, Std Dev: 0.006605244118721576
+Data Name with Highest RMSE: dataset_snu_cell_09_n, RMSE: 33.878196716308594
+Data Name with Smallest R2: dataset_snu_cell_09_n, R2: 0.9759020805358887
+
+=============================================================================
+
+Iteration 18 // dataset_snu_cell_14_f
+RMSE: 15.611282348632812
+R2: 0.9949367046356201
+
+Iteration 18 // dataset_snu_cell_08_f
+RMSE: 40.82881164550781
+R2: 0.968428909778595
+
+Iteration 18 // dataset_snu_cell_06_f
+RMSE: 31.749282836914062
+R2: 0.9810996651649475
+
+Iteration 18 // dataset_snu_cell_07_n
+RMSE: 23.20016098022461
+R2: 0.9895184636116028
+
+Iteration 18 // dataset_snu_cell_01_f
+RMSE: 29.987173080444336
+R2: 0.9838337898254395
+
+Iteration 18 // dataset_snu_cell_02_n
+RMSE: 34.993167877197266
+R2: 0.9748912453651428
+
+Iteration 18, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 306, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.39497947692871, Std Dev: 8.12744140625
+Average R2: 0.9821181297302246, Std Dev: 0.00878145929695539
+Data Name with Highest RMSE: dataset_snu_cell_08_f, RMSE: 40.82881164550781
+Data Name with Smallest R2: dataset_snu_cell_08_f, R2: 0.968428909778595
+
+=============================================================================
+
+Iteration 19 // dataset_snu_cell_05_n
+RMSE: 74.9747543334961
+R2: 0.866938591003418
+
+Iteration 19 // dataset_snu_cell_02_f
+RMSE: 29.1982364654541
+R2: 0.9852209091186523
+
+Iteration 19 // dataset_snu_cell_08_n
+RMSE: 18.824745178222656
+R2: 0.9927336573600769
+
+Iteration 19 // dataset_snu_cell_15_f
+RMSE: 19.28192901611328
+R2: 0.9924160838127136
+
+Iteration 19 // dataset_snu_cell_15_n
+RMSE: 100.09519958496094
+R2: 0.732170045375824
+
+Iteration 19 // dataset_snu_cell_11_f
+RMSE: 23.73238754272461
+R2: 0.9897996187210083
+
+Iteration 19, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 323, Epochs: 1000, Sequence Length: 30
+Average RMSE: 44.3512077331543, Std Dev: 31.570058822631836
+Average R2: 0.9265464842319489, Std Dev: 0.09789321913155538
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 100.09519958496094
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.732170045375824
+
+=============================================================================
+
+Iteration 20 // dataset_snu_cell_05_f
+RMSE: 58.0633430480957
+R2: 0.917905867099762
+
+Iteration 20 // dataset_snu_cell_09_f
+RMSE: 26.15525245666504
+R2: 0.987300455570221
+
+Iteration 20 // dataset_snu_cell_01_f
+RMSE: 22.4761905670166
+R2: 0.990917980670929
+
+Iteration 20 // dataset_snu_cell_07_f
+RMSE: 51.05542755126953
+R2: 0.9363453984260559
+
+Iteration 20 // dataset_snu_cell_03_n
+RMSE: 34.67926788330078
+R2: 0.9774502515792847
+
+Iteration 20 // dataset_snu_cell_16_f
+RMSE: 13.733030319213867
+R2: 0.9961529970169067
+
+Iteration 20, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 340, Epochs: 1000, Sequence Length: 30
+Average RMSE: 34.360416412353516, Std Dev: 15.677490234375
+Average R2: 0.9676788250605265, Std Dev: 0.029694154730570174
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 58.0633430480957
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.917905867099762
+
+=============================================================================
+
+Iteration 21 // dataset_snu_cell_03_f
+RMSE: 21.086074829101562
+R2: 0.9922922849655151
+
+Iteration 21 // dataset_snu_cell_02_f
+RMSE: 23.061660766601562
+R2: 0.9907802939414978
+
+Iteration 21 // dataset_snu_cell_06_n
+RMSE: 42.12351608276367
+R2: 0.9617392420768738
+
+Iteration 21 // dataset_snu_cell_07_n
+RMSE: 19.022716522216797
+R2: 0.9929532408714294
+
+Iteration 21 // dataset_snu_cell_07_f
+RMSE: 52.13072204589844
+R2: 0.9336358308792114
+
+Iteration 21 // dataset_snu_cell_08_n
+RMSE: 16.66156578063965
+R2: 0.9943076372146606
+
+Iteration 21, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 357, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.014375686645508, Std Dev: 13.272358894348145
+Average R2: 0.9776180883248647, Std Dev: 0.022689426236675983
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 52.13072204589844
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9336358308792114
+
+=============================================================================
+
+Iteration 22 // dataset_snu_cell_05_n
+RMSE: 92.7273941040039
+R2: 0.7964653968811035
+
+Iteration 22 // dataset_snu_cell_01_f
+RMSE: 31.74020004272461
+R2: 0.9818884134292603
+
+Iteration 22 // dataset_snu_cell_11_n
+RMSE: 34.152862548828125
+R2: 0.9763922691345215
+
+Iteration 22 // dataset_snu_cell_02_f
+RMSE: 28.27817726135254
+R2: 0.9861376285552979
+
+Iteration 22 // dataset_snu_cell_06_f
+RMSE: 37.645423889160156
+R2: 0.9734278917312622
+
+Iteration 22 // dataset_snu_cell_05_f
+RMSE: 72.84306335449219
+R2: 0.8707935214042664
+
+Iteration 22, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 374, Epochs: 1000, Sequence Length: 30
+Average RMSE: 49.56452560424805, Std Dev: 24.34242820739746
+Average R2: 0.9308508535226186, Std Dev: 0.07212791742362672
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 92.7273941040039
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.7964653968811035
+
+=============================================================================
+
+Iteration 23 // dataset_snu_cell_09_n
+RMSE: 37.52323913574219
+R2: 0.9704376459121704
+
+Iteration 23 // dataset_snu_cell_02_n
+RMSE: 109.44512176513672
+R2: 0.7543866634368896
+
+Iteration 23 // dataset_snu_cell_04_f
+RMSE: 41.688533782958984
+R2: 0.9686790704727173
+
+Iteration 23 // dataset_snu_cell_11_f
+RMSE: 37.66915512084961
+R2: 0.9743016958236694
+
+Iteration 23 // dataset_snu_cell_16_f
+RMSE: 20.633026123046875
+R2: 0.9913160800933838
+
+Iteration 23 // dataset_snu_cell_06_f
+RMSE: 41.51919174194336
+R2: 0.967677891254425
+
+Iteration 23, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 391, Epochs: 1000, Sequence Length: 30
+Average RMSE: 48.0797119140625, Std Dev: 28.351192474365234
+Average R2: 0.9377998411655426, Std Dev: 0.08240976678099213
+Data Name with Highest RMSE: dataset_snu_cell_02_n, RMSE: 109.44512176513672
+Data Name with Smallest R2: dataset_snu_cell_02_n, R2: 0.7543866634368896
+
+=============================================================================
+
+Iteration 24 // dataset_snu_cell_02_n
+RMSE: 42.495609283447266
+R2: 0.9629705548286438
+
+Iteration 24 // dataset_snu_cell_07_n
+RMSE: 19.203401565551758
+R2: 0.9928187727928162
+
+Iteration 24 // dataset_snu_cell_14_f
+RMSE: 17.902307510375977
+R2: 0.9933415651321411
+
+Iteration 24 // dataset_snu_cell_10_f
+RMSE: 46.59182357788086
+R2: 0.9590932130813599
+
+Iteration 24 // dataset_snu_cell_09_n
+RMSE: 33.39508819580078
+R2: 0.9765844941139221
+
+Iteration 24 // dataset_snu_cell_07_f
+RMSE: 52.53386688232422
+R2: 0.9326054453849792
+
+Iteration 24, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 408, Epochs: 1000, Sequence Length: 30
+Average RMSE: 35.35368347167969, Std Dev: 13.176240921020508
+Average R2: 0.9695690075556437, Std Dev: 0.021112752487392413
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 52.53386688232422
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9326054453849792
+
+=============================================================================
+
+Iteration 25 // dataset_snu_cell_02_f
+RMSE: 24.991113662719727
+R2: 0.9891730546951294
+
+Iteration 25 // dataset_snu_cell_09_f
+RMSE: 34.90218734741211
+R2: 0.9773861169815063
+
+Iteration 25 // dataset_snu_cell_04_f
+RMSE: 34.892452239990234
+R2: 0.9780585765838623
+
+Iteration 25 // dataset_snu_cell_16_f
+RMSE: 15.339082717895508
+R2: 0.9952005743980408
+
+Iteration 25 // dataset_snu_cell_01_f
+RMSE: 30.275691986083984
+R2: 0.9835211634635925
+
+Iteration 25 // dataset_snu_cell_08_n
+RMSE: 16.689924240112305
+R2: 0.9942882657051086
+
+Iteration 25, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 425, Epochs: 1000, Sequence Length: 30
+Average RMSE: 26.18174171447754, Std Dev: 7.934718608856201
+Average R2: 0.9862712919712067, Std Dev: 0.007145889434419634
+Data Name with Highest RMSE: dataset_snu_cell_09_f, RMSE: 34.90218734741211
+Data Name with Smallest R2: dataset_snu_cell_09_f, R2: 0.9773861169815063
+
+=============================================================================
+
+Iteration 26 // dataset_snu_cell_13_n
+RMSE: 13.036065101623535
+R2: 0.9965062737464905
+
+Iteration 26 // dataset_snu_cell_07_n
+RMSE: 18.566511154174805
+R2: 0.993287205696106
+
+Iteration 26 // dataset_snu_cell_04_f
+RMSE: 19.167133331298828
+R2: 0.9933791160583496
+
+Iteration 26 // dataset_snu_cell_05_f
+RMSE: 47.30493927001953
+R2: 0.9455094933509827
+
+Iteration 26 // dataset_snu_cell_15_f
+RMSE: 10.478605270385742
+R2: 0.9977602362632751
+
+Iteration 26 // dataset_snu_cell_14_f
+RMSE: 9.83873176574707
+R2: 0.9979888796806335
+
+Iteration 26, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 442, Epochs: 1000, Sequence Length: 30
+Average RMSE: 19.731996536254883, Std Dev: 12.847062110900879
+Average R2: 0.9874052007993063, Std Dev: 0.018830854532906
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 47.30493927001953
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9455094933509827
+
+=============================================================================
+
+Iteration 27 // dataset_snu_cell_08_f
+RMSE: 41.4416389465332
+R2: 0.967474102973938
+
+Iteration 27 // dataset_snu_cell_01_n
+RMSE: 20.33998680114746
+R2: 0.9918189644813538
+
+Iteration 27 // dataset_snu_cell_11_n
+RMSE: 37.50857162475586
+R2: 0.9715251326560974
+
+Iteration 27 // dataset_snu_cell_06_n
+RMSE: 42.91718673706055
+R2: 0.9602838754653931
+
+Iteration 27 // dataset_snu_cell_08_n
+RMSE: 13.483526229858398
+R2: 0.996272087097168
+
+Iteration 27 // dataset_snu_cell_09_f
+RMSE: 31.108840942382812
+R2: 0.9820345640182495
+
+Iteration 27, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 459, Epochs: 1000, Sequence Length: 30
+Average RMSE: 31.133291244506836, Std Dev: 10.907005310058594
+Average R2: 0.9782347877820333, Std Dev: 0.01295736203267798
+Data Name with Highest RMSE: dataset_snu_cell_06_n, RMSE: 42.91718673706055
+Data Name with Smallest R2: dataset_snu_cell_06_n, R2: 0.9602838754653931
+
+=============================================================================
+
+Iteration 28 // dataset_snu_cell_02_n
+RMSE: 45.85108947753906
+R2: 0.9568919539451599
+
+Iteration 28 // dataset_snu_cell_08_f
+RMSE: 41.29936218261719
+R2: 0.967697024345398
+
+Iteration 28 // dataset_snu_cell_05_f
+RMSE: 57.53913116455078
+R2: 0.9193815588951111
+
+Iteration 28 // dataset_snu_cell_14_f
+RMSE: 17.995655059814453
+R2: 0.9932719469070435
+
+Iteration 28 // dataset_snu_cell_06_f
+RMSE: 32.69883346557617
+R2: 0.9799522161483765
+
+Iteration 28 // dataset_snu_cell_13_f
+RMSE: 35.4626579284668
+R2: 0.972736656665802
+
+Iteration 28, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 476, Epochs: 1000, Sequence Length: 30
+Average RMSE: 38.47445297241211, Std Dev: 12.163241386413574
+Average R2: 0.9649885594844818, Std Dev: 0.02322636196473695
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 57.53913116455078
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9193815588951111
+
+=============================================================================
+
+Iteration 29 // dataset_snu_cell_15_f
+RMSE: 16.25973129272461
+R2: 0.994607150554657
+
+Iteration 29 // dataset_snu_cell_08_n
+RMSE: 16.217857360839844
+R2: 0.9946067929267883
+
+Iteration 29 // dataset_snu_cell_04_n
+RMSE: 20.153789520263672
+R2: 0.9922295808792114
+
+Iteration 29 // dataset_snu_cell_07_f
+RMSE: 50.57917785644531
+R2: 0.9375274181365967
+
+Iteration 29 // dataset_snu_cell_08_f
+RMSE: 41.14779281616211
+R2: 0.967933714389801
+
+Iteration 29 // dataset_snu_cell_09_f
+RMSE: 31.710289001464844
+R2: 0.9813331961631775
+
+Iteration 29, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 493, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.344772338867188, Std Dev: 13.062767028808594
+Average R2: 0.9780396421750387, Std Dev: 0.020430878383720406
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 50.57917785644531
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9375274181365967
+
+=============================================================================
+
+Iteration 30 // dataset_snu_cell_03_n
+RMSE: 33.16090774536133
+R2: 0.9793816208839417
+
+Iteration 30 // dataset_snu_cell_09_f
+RMSE: 32.50173568725586
+R2: 0.9803897738456726
+
+Iteration 30 // dataset_snu_cell_01_f
+RMSE: 31.274150848388672
+R2: 0.9824163317680359
+
+Iteration 30 // dataset_snu_cell_14_f
+RMSE: 15.496330261230469
+R2: 0.995011031627655
+
+Iteration 30 // dataset_snu_cell_04_n
+RMSE: 23.395620346069336
+R2: 0.9895287156105042
+
+Iteration 30 // dataset_snu_cell_04_f
+RMSE: 37.13663101196289
+R2: 0.9751453995704651
+
+Iteration 30, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 510, Epochs: 1000, Sequence Length: 30
+Average RMSE: 28.82756233215332, Std Dev: 7.240299224853516
+Average R2: 0.983645478884379, Std Dev: 0.006662463444042434
+Data Name with Highest RMSE: dataset_snu_cell_04_f, RMSE: 37.13663101196289
+Data Name with Smallest R2: dataset_snu_cell_04_f, R2: 0.9751453995704651
+
+=============================================================================
+
+Iteration 31 // dataset_snu_cell_05_f
+RMSE: 52.85961151123047
+R2: 0.9319612979888916
+
+Iteration 31 // dataset_snu_cell_13_f
+RMSE: 32.77438735961914
+R2: 0.9767134189605713
+
+Iteration 31 // dataset_snu_cell_03_n
+RMSE: 26.839136123657227
+R2: 0.9864936470985413
+
+Iteration 31 // dataset_snu_cell_11_n
+RMSE: 32.25439453125
+R2: 0.9789438843727112
+
+Iteration 31 // dataset_snu_cell_10_f
+RMSE: 45.05266571044922
+R2: 0.9617512822151184
+
+Iteration 31 // dataset_snu_cell_08_f
+RMSE: 42.25345230102539
+R2: 0.9661872386932373
+
+Iteration 31, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 527, Epochs: 1000, Sequence Length: 30
+Average RMSE: 38.67227554321289, Std Dev: 8.858255386352539
+Average R2: 0.9670084615548452, Std Dev: 0.0176679039851819
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 52.85961151123047
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9319612979888916
+
+=============================================================================
+
+Iteration 32 // dataset_snu_cell_15_n
+RMSE: 109.05847930908203
+R2: 0.6820553541183472
+
+Iteration 32 // dataset_snu_cell_11_f
+RMSE: 28.61151885986328
+R2: 0.985174298286438
+
+Iteration 32 // dataset_snu_cell_11_n
+RMSE: 36.85602951049805
+R2: 0.9725072979927063
+
+Iteration 32 // dataset_snu_cell_08_n
+RMSE: 20.137779235839844
+R2: 0.99168461561203
+
+Iteration 32 // dataset_snu_cell_16_f
+RMSE: 25.96855926513672
+R2: 0.9862441420555115
+
+Iteration 32 // dataset_snu_cell_01_n
+RMSE: 27.023929595947266
+R2: 0.9855587482452393
+
+Iteration 32, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 544, Epochs: 1000, Sequence Length: 30
+Average RMSE: 41.27605056762695, Std Dev: 30.7100772857666
+Average R2: 0.9338707427183787, Std Dev: 0.11276294820375088
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 109.05847930908203
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.6820553541183472
+
+=============================================================================
+
+Iteration 33 // dataset_snu_cell_01_n
+RMSE: 15.407289505004883
+R2: 0.9953058362007141
+
+Iteration 33 // dataset_snu_cell_04_n
+RMSE: 18.915626525878906
+R2: 0.9931550025939941
+
+Iteration 33 // dataset_snu_cell_07_n
+RMSE: 19.160844802856445
+R2: 0.9928505420684814
+
+Iteration 33 // dataset_snu_cell_10_f
+RMSE: 40.89505386352539
+R2: 0.9684849977493286
+
+Iteration 33 // dataset_snu_cell_04_f
+RMSE: 35.23014831542969
+R2: 0.9776318073272705
+
+Iteration 33 // dataset_snu_cell_03_n
+RMSE: 33.771480560302734
+R2: 0.9786153435707092
+
+Iteration 33, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 561, Epochs: 1000, Sequence Length: 30
+Average RMSE: 27.230073928833008, Std Dev: 9.72576904296875
+Average R2: 0.9843405882517496, Std Dev: 0.009996130877101432
+Data Name with Highest RMSE: dataset_snu_cell_10_f, RMSE: 40.89505386352539
+Data Name with Smallest R2: dataset_snu_cell_10_f, R2: 0.9684849977493286
+
+=============================================================================
+
+Iteration 34 // dataset_snu_cell_06_n
+RMSE: 37.09660720825195
+R2: 0.9703262448310852
+
+Iteration 34 // dataset_snu_cell_07_n
+RMSE: 18.099023818969727
+R2: 0.9936209917068481
+
+Iteration 34 // dataset_snu_cell_01_n
+RMSE: 14.730999946594238
+R2: 0.9957088828086853
+
+Iteration 34 // dataset_snu_cell_06_f
+RMSE: 25.91190528869629
+R2: 0.9874107241630554
+
+Iteration 34 // dataset_snu_cell_09_n
+RMSE: 24.653478622436523
+R2: 0.9872387051582336
+
+Iteration 34 // dataset_snu_cell_03_f
+RMSE: 14.429040908813477
+R2: 0.9963908195495605
+
+Iteration 34, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 578, Epochs: 1000, Sequence Length: 30
+Average RMSE: 22.486845016479492, Std Dev: 7.897307872772217
+Average R2: 0.9884493947029114, Std Dev: 0.00888355201730148
+Data Name with Highest RMSE: dataset_snu_cell_06_n, RMSE: 37.09660720825195
+Data Name with Smallest R2: dataset_snu_cell_06_n, R2: 0.9703262448310852
+
+=============================================================================
+
+Iteration 35 // dataset_snu_cell_12_f
+RMSE: 39.580604553222656
+R2: 0.966037392616272
+
+Iteration 35 // dataset_snu_cell_08_n
+RMSE: 20.598543167114258
+R2: 0.9912997484207153
+
+Iteration 35 // dataset_snu_cell_02_f
+RMSE: 29.497264862060547
+R2: 0.984916627407074
+
+Iteration 35 // dataset_snu_cell_04_f
+RMSE: 36.15720748901367
+R2: 0.9764391183853149
+
+Iteration 35 // dataset_snu_cell_01_f
+RMSE: 34.05255126953125
+R2: 0.9791533350944519
+
+Iteration 35 // dataset_snu_cell_13_n
+RMSE: 30.756540298461914
+R2: 0.9805521965026855
+
+Iteration 35, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 595, Epochs: 1000, Sequence Length: 30
+Average RMSE: 31.773786544799805, Std Dev: 6.006343364715576
+Average R2: 0.9797330697377523, Std Dev: 0.0077468926470320035
+Data Name with Highest RMSE: dataset_snu_cell_12_f, RMSE: 39.580604553222656
+Data Name with Smallest R2: dataset_snu_cell_12_f, R2: 0.966037392616272
+
+=============================================================================
+
+Iteration 36 // dataset_snu_cell_09_n
+RMSE: 39.30859375
+R2: 0.9675575494766235
+
+Iteration 36 // dataset_snu_cell_12_f
+RMSE: 44.77692413330078
+R2: 0.9565345048904419
+
+Iteration 36 // dataset_snu_cell_16_f
+RMSE: 23.41790199279785
+R2: 0.9888136982917786
+
+Iteration 36 // dataset_snu_cell_08_n
+RMSE: 23.49569320678711
+R2: 0.9886803030967712
+
+Iteration 36 // dataset_snu_cell_05_f
+RMSE: 75.6879653930664
+R2: 0.8605040311813354
+
+Iteration 36 // dataset_snu_cell_07_f
+RMSE: 66.76476287841797
+R2: 0.8911468982696533
+
+Iteration 36, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 612, Epochs: 1000, Sequence Length: 30
+Average RMSE: 45.5753059387207, Std Dev: 19.891935348510742
+Average R2: 0.9422061642011007, Std Dev: 0.04909580613427057
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 75.6879653930664
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.8605040311813354
+
+=============================================================================
+
+Iteration 37 // dataset_snu_cell_03_n
+RMSE: 28.59453582763672
+R2: 0.9846690893173218
+
+Iteration 37 // dataset_snu_cell_05_f
+RMSE: 54.260189056396484
+R2: 0.9283080101013184
+
+Iteration 37 // dataset_snu_cell_01_f
+RMSE: 18.055673599243164
+R2: 0.9941390752792358
+
+Iteration 37 // dataset_snu_cell_08_n
+RMSE: 8.899053573608398
+R2: 0.9983761310577393
+
+Iteration 37 // dataset_snu_cell_04_f
+RMSE: 20.125885009765625
+R2: 0.9927002191543579
+
+Iteration 37 // dataset_snu_cell_09_n
+RMSE: 25.3609619140625
+R2: 0.9864957928657532
+
+Iteration 37, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 629, Epochs: 1000, Sequence Length: 30
+Average RMSE: 25.882715225219727, Std Dev: 14.117103576660156
+Average R2: 0.9807813862959543, Std Dev: 0.0239140313114989
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 54.260189056396484
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9283080101013184
+
+=============================================================================
+
+Iteration 38 // dataset_snu_cell_09_n
+RMSE: 25.394039154052734
+R2: 0.9864605069160461
+
+Iteration 38 // dataset_snu_cell_15_f
+RMSE: 14.952347755432129
+R2: 0.9954395294189453
+
+Iteration 38 // dataset_snu_cell_03_n
+RMSE: 32.501731872558594
+R2: 0.9801931977272034
+
+Iteration 38 // dataset_snu_cell_14_f
+RMSE: 14.248565673828125
+R2: 0.9957820773124695
+
+Iteration 38 // dataset_snu_cell_07_f
+RMSE: 41.207794189453125
+R2: 0.9585328102111816
+
+Iteration 38 // dataset_snu_cell_16_f
+RMSE: 10.838981628417969
+R2: 0.9976035356521606
+
+Iteration 38, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 646, Epochs: 1000, Sequence Length: 30
+Average RMSE: 23.190576553344727, Std Dev: 10.92827320098877
+Average R2: 0.9856686095396677, Std Dev: 0.013584024981303603
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 41.207794189453125
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9585328102111816
+
+=============================================================================
+
+Iteration 39 // dataset_snu_cell_08_n
+RMSE: 14.565797805786133
+R2: 0.9956496357917786
+
+Iteration 39 // dataset_snu_cell_03_f
+RMSE: 21.4810848236084
+R2: 0.9920007586479187
+
+Iteration 39 // dataset_snu_cell_14_f
+RMSE: 15.88488483428955
+R2: 0.9947577118873596
+
+Iteration 39 // dataset_snu_cell_16_f
+RMSE: 16.3327693939209
+R2: 0.994558572769165
+
+Iteration 39 // dataset_snu_cell_04_f
+RMSE: 28.726551055908203
+R2: 0.9851280450820923
+
+Iteration 39 // dataset_snu_cell_11_f
+RMSE: 25.192182540893555
+R2: 0.9885061979293823
+
+Iteration 39, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 663, Epochs: 1000, Sequence Length: 30
+Average RMSE: 20.36387825012207, Std Dev: 5.23488187789917
+Average R2: 0.9917668203512827, Std Dev: 0.003798580705735767
+Data Name with Highest RMSE: dataset_snu_cell_04_f, RMSE: 28.726551055908203
+Data Name with Smallest R2: dataset_snu_cell_04_f, R2: 0.9851280450820923
+
+=============================================================================
+
+Iteration 40 // dataset_snu_cell_04_n
+RMSE: 13.915752410888672
+R2: 0.9962953925132751
+
+Iteration 40 // dataset_snu_cell_08_n
+RMSE: 12.923502922058105
+R2: 0.9965752959251404
+
+Iteration 40 // dataset_snu_cell_02_f
+RMSE: 17.65900230407715
+R2: 0.9945940971374512
+
+Iteration 40 // dataset_snu_cell_14_f
+RMSE: 17.723350524902344
+R2: 0.993474006652832
+
+Iteration 40 // dataset_snu_cell_07_f
+RMSE: 47.92778778076172
+R2: 0.9439054131507874
+
+Iteration 40 // dataset_snu_cell_13_n
+RMSE: 23.46172523498535
+R2: 0.9886834025382996
+
+Iteration 40, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 680, Epochs: 1000, Sequence Length: 30
+Average RMSE: 22.268522262573242, Std Dev: 11.964015007019043
+Average R2: 0.9855879346529642, Std Dev: 0.018822359823927097
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 47.92778778076172
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9439054131507874
+
+=============================================================================
+
+Iteration 41 // dataset_snu_cell_06_f
+RMSE: 29.580379486083984
+R2: 0.983593761920929
+
+Iteration 41 // dataset_snu_cell_02_f
+RMSE: 12.841177940368652
+R2: 0.9971414804458618
+
+Iteration 41 // dataset_snu_cell_06_n
+RMSE: 41.044189453125
+R2: 0.9636748433113098
+
+Iteration 41 // dataset_snu_cell_10_f
+RMSE: 36.473270416259766
+R2: 0.9749316573143005
+
+Iteration 41 // dataset_snu_cell_13_f
+RMSE: 30.205564498901367
+R2: 0.9802207350730896
+
+Iteration 41 // dataset_snu_cell_09_f
+RMSE: 25.376392364501953
+R2: 0.9880455732345581
+
+Iteration 41, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 697, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.253494262695312, Std Dev: 8.912117004394531
+Average R2: 0.9812680085500082, Std Dev: 0.010440922801313417
+Data Name with Highest RMSE: dataset_snu_cell_06_n, RMSE: 41.044189453125
+Data Name with Smallest R2: dataset_snu_cell_06_n, R2: 0.9636748433113098
+
+=============================================================================
+
+Iteration 42 // dataset_snu_cell_11_n
+RMSE: 31.330041885375977
+R2: 0.9801334738731384
+
+Iteration 42 // dataset_snu_cell_07_n
+RMSE: 16.48711395263672
+R2: 0.9947066307067871
+
+Iteration 42 // dataset_snu_cell_13_n
+RMSE: 26.113750457763672
+R2: 0.9859804511070251
+
+Iteration 42 // dataset_snu_cell_07_f
+RMSE: 53.79891586303711
+R2: 0.9293205738067627
+
+Iteration 42 // dataset_snu_cell_10_f
+RMSE: 41.878929138183594
+R2: 0.9669502973556519
+
+Iteration 42 // dataset_snu_cell_15_n
+RMSE: 99.62245178222656
+R2: 0.7346940040588379
+
+Iteration 42, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 714, Epochs: 1000, Sequence Length: 30
+Average RMSE: 44.87186813354492, Std Dev: 27.163759231567383
+Average R2: 0.9319642384847006, Std Dev: 0.09066531210483508
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 99.62245178222656
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7346940040588379
+
+=============================================================================
+
+Iteration 43 // dataset_snu_cell_05_f
+RMSE: 60.823917388916016
+R2: 0.9099141359329224
+
+Iteration 43 // dataset_snu_cell_09_f
+RMSE: 34.25233840942383
+R2: 0.9782204031944275
+
+Iteration 43 // dataset_snu_cell_15_f
+RMSE: 17.6107120513916
+R2: 0.9936737418174744
+
+Iteration 43 // dataset_snu_cell_06_f
+RMSE: 33.71371078491211
+R2: 0.9786884188652039
+
+Iteration 43 // dataset_snu_cell_08_n
+RMSE: 16.666189193725586
+R2: 0.9943044781684875
+
+Iteration 43 // dataset_snu_cell_07_n
+RMSE: 16.607810974121094
+R2: 0.9946288466453552
+
+Iteration 43, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 731, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.94577980041504, Std Dev: 15.772369384765625
+Average R2: 0.9749050041039785, Std Dev: 0.029907507747349408
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 60.823917388916016
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9099141359329224
+
+=============================================================================
+
+Iteration 44 // dataset_snu_cell_01_f
+RMSE: 31.03313636779785
+R2: 0.9826863408088684
+
+Iteration 44 // dataset_snu_cell_06_n
+RMSE: 48.5631103515625
+R2: 0.9491469264030457
+
+Iteration 44 // dataset_snu_cell_09_n
+RMSE: 40.43867111206055
+R2: 0.9656654000282288
+
+Iteration 44 // dataset_snu_cell_07_n
+RMSE: 21.908185958862305
+R2: 0.9906533360481262
+
+Iteration 44 // dataset_snu_cell_13_n
+RMSE: 29.115280151367188
+R2: 0.9825724363327026
+
+Iteration 44 // dataset_snu_cell_05_n
+RMSE: 89.3671875
+R2: 0.8109493255615234
+
+Iteration 44, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 748, Epochs: 1000, Sequence Length: 30
+Average RMSE: 43.40426254272461, Std Dev: 22.238481521606445
+Average R2: 0.9469456275304159, Std Dev: 0.062326160402711404
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 89.3671875
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8109493255615234
+
+=============================================================================
+
+Iteration 45 // dataset_snu_cell_06_n
+RMSE: 54.4564323425293
+R2: 0.9360555410385132
+
+Iteration 45 // dataset_snu_cell_05_n
+RMSE: 96.724365234375
+R2: 0.7785407304763794
+
+Iteration 45 // dataset_snu_cell_15_f
+RMSE: 24.18186378479004
+R2: 0.9880719184875488
+
+Iteration 45 // dataset_snu_cell_12_f
+RMSE: 52.35057067871094
+R2: 0.9405873417854309
+
+Iteration 45 // dataset_snu_cell_01_n
+RMSE: 27.760358810424805
+R2: 0.9847609996795654
+
+Iteration 45 // dataset_snu_cell_14_f
+RMSE: 21.56785774230957
+R2: 0.9903357625007629
+
+Iteration 45, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 765, Epochs: 1000, Sequence Length: 30
+Average RMSE: 46.173580169677734, Std Dev: 26.10959815979004
+Average R2: 0.9363920489947001, Std Dev: 0.0739989200429685
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 96.724365234375
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.7785407304763794
+
+=============================================================================
+
+Iteration 46 // dataset_snu_cell_06_n
+RMSE: 42.85832977294922
+R2: 0.9603927135467529
+
+Iteration 46 // dataset_snu_cell_01_n
+RMSE: 18.995731353759766
+R2: 0.9928646087646484
+
+Iteration 46 // dataset_snu_cell_03_f
+RMSE: 16.23185920715332
+R2: 0.9954325556755066
+
+Iteration 46 // dataset_snu_cell_12_f
+RMSE: 33.04077911376953
+R2: 0.9763333797454834
+
+Iteration 46 // dataset_snu_cell_13_f
+RMSE: 33.99568557739258
+R2: 0.974945604801178
+
+Iteration 46 // dataset_snu_cell_13_n
+RMSE: 24.094512939453125
+R2: 0.9880647659301758
+
+Iteration 46, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 782, Epochs: 1000, Sequence Length: 30
+Average RMSE: 28.202817916870117, Std Dev: 9.279903411865234
+Average R2: 0.9813389380772909, Std Dev: 0.012120111033464729
+Data Name with Highest RMSE: dataset_snu_cell_06_n, RMSE: 42.85832977294922
+Data Name with Smallest R2: dataset_snu_cell_06_n, R2: 0.9603927135467529
+
+=============================================================================
+
+Iteration 47 // dataset_snu_cell_08_n
+RMSE: 25.406566619873047
+R2: 0.9867641925811768
+
+Iteration 47 // dataset_snu_cell_03_f
+RMSE: 22.047603607177734
+R2: 0.9915732741355896
+
+Iteration 47 // dataset_snu_cell_15_n
+RMSE: 109.55078887939453
+R2: 0.6791783571243286
+
+Iteration 47 // dataset_snu_cell_09_f
+RMSE: 32.959495544433594
+R2: 0.9798334836959839
+
+Iteration 47 // dataset_snu_cell_06_f
+RMSE: 31.94696617126465
+R2: 0.9808635711669922
+
+Iteration 47 // dataset_snu_cell_05_f
+RMSE: 64.81555938720703
+R2: 0.897702157497406
+
+Iteration 47, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 799, Epochs: 1000, Sequence Length: 30
+Average RMSE: 47.78782653808594, Std Dev: 30.927064895629883
+Average R2: 0.9193191727002462, Std Dev: 0.11206700923304559
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 109.55078887939453
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.6791783571243286
+
+=============================================================================
+
+Iteration 48 // dataset_snu_cell_08_n
+RMSE: 12.871306419372559
+R2: 0.9966029524803162
+
+Iteration 48 // dataset_snu_cell_12_f
+RMSE: 39.532508850097656
+R2: 0.9661198854446411
+
+Iteration 48 // dataset_snu_cell_01_n
+RMSE: 18.91790771484375
+R2: 0.9929229617118835
+
+Iteration 48 // dataset_snu_cell_05_n
+RMSE: 79.38433837890625
+R2: 0.8508264422416687
+
+Iteration 48 // dataset_snu_cell_13_n
+RMSE: 22.57836151123047
+R2: 0.9895195364952087
+
+Iteration 48 // dataset_snu_cell_08_f
+RMSE: 36.612998962402344
+R2: 0.9746121168136597
+
+Iteration 48, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 816, Epochs: 1000, Sequence Length: 30
+Average RMSE: 34.982906341552734, Std Dev: 21.968626022338867
+Average R2: 0.961767315864563, Std Dev: 0.05073820521412315
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 79.38433837890625
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8508264422416687
+
+=============================================================================
+
+Iteration 49 // dataset_snu_cell_10_f
+RMSE: 46.373409271240234
+R2: 0.9594758152961731
+
+Iteration 49 // dataset_snu_cell_11_f
+RMSE: 31.443798065185547
+R2: 0.9820938110351562
+
+Iteration 49 // dataset_snu_cell_03_n
+RMSE: 27.764076232910156
+R2: 0.9855466485023499
+
+Iteration 49 // dataset_snu_cell_16_f
+RMSE: 17.048126220703125
+R2: 0.9940714836120605
+
+Iteration 49 // dataset_snu_cell_05_f
+RMSE: 56.45093536376953
+R2: 0.9224020838737488
+
+Iteration 49 // dataset_snu_cell_11_n
+RMSE: 34.14659881591797
+R2: 0.9764009118080139
+
+Iteration 49, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 833, Epochs: 1000, Sequence Length: 30
+Average RMSE: 35.53782653808594, Std Dev: 12.752547264099121
+Average R2: 0.9699984590212504, Std Dev: 0.023751093340670913
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 56.45093536376953
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9224020838737488
+
+=============================================================================
+
+Iteration 50 // dataset_snu_cell_11_n
+RMSE: 31.64010238647461
+R2: 0.9797382950782776
+
+Iteration 50 // dataset_snu_cell_15_f
+RMSE: 19.7098331451416
+R2: 0.9920757412910461
+
+Iteration 50 // dataset_snu_cell_13_n
+RMSE: 29.024553298950195
+R2: 0.9826808571815491
+
+Iteration 50 // dataset_snu_cell_11_f
+RMSE: 23.823001861572266
+R2: 0.9897215962409973
+
+Iteration 50 // dataset_snu_cell_15_n
+RMSE: 104.63719177246094
+R2: 0.7073121070861816
+
+Iteration 50 // dataset_snu_cell_05_f
+RMSE: 59.073944091796875
+R2: 0.9150233268737793
+
+Iteration 50, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 850, Epochs: 1000, Sequence Length: 30
+Average RMSE: 44.65143966674805, Std Dev: 29.6527156829834
+Average R2: 0.9277586539586385, Std Dev: 0.1020239302165145
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 104.63719177246094
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7073121070861816
+
+=============================================================================
+
+Iteration 51 // dataset_snu_cell_04_f
+RMSE: 31.36203384399414
+R2: 0.982274055480957
+
+Iteration 51 // dataset_snu_cell_09_f
+RMSE: 32.069862365722656
+R2: 0.9809074401855469
+
+Iteration 51 // dataset_snu_cell_03_n
+RMSE: 31.09958839416504
+R2: 0.9818652868270874
+
+Iteration 51 // dataset_snu_cell_14_f
+RMSE: 14.816824913024902
+R2: 0.9954389333724976
+
+Iteration 51 // dataset_snu_cell_15_f
+RMSE: 15.754280090332031
+R2: 0.9949372410774231
+
+Iteration 51 // dataset_snu_cell_07_f
+RMSE: 44.21344757080078
+R2: 0.9522630572319031
+
+Iteration 51, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 867, Epochs: 1000, Sequence Length: 30
+Average RMSE: 28.21933937072754, Std Dev: 10.19653034210205
+Average R2: 0.9812810023625692, Std Dev: 0.01432042886611544
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 44.21344757080078
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9522630572319031
+
+=============================================================================
+
+Iteration 52 // dataset_snu_cell_09_n
+RMSE: 31.77069854736328
+R2: 0.9788070321083069
+
+Iteration 52 // dataset_snu_cell_07_n
+RMSE: 15.646172523498535
+R2: 0.9952328205108643
+
+Iteration 52 // dataset_snu_cell_06_f
+RMSE: 32.92286682128906
+R2: 0.9796765446662903
+
+Iteration 52 // dataset_snu_cell_03_f
+RMSE: 18.23552894592285
+R2: 0.9942353367805481
+
+Iteration 52 // dataset_snu_cell_01_f
+RMSE: 26.9119873046875
+R2: 0.9869794249534607
+
+Iteration 52 // dataset_snu_cell_11_n
+RMSE: 33.79634475708008
+R2: 0.9768825173377991
+
+Iteration 52, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 884, Epochs: 1000, Sequence Length: 30
+Average RMSE: 26.547266006469727, Std Dev: 7.170930862426758
+Average R2: 0.9853022793928782, Std Dev: 0.007370634300888623
+Data Name with Highest RMSE: dataset_snu_cell_11_n, RMSE: 33.79634475708008
+Data Name with Smallest R2: dataset_snu_cell_11_n, R2: 0.9768825173377991
+
+=============================================================================
+
+Iteration 53 // dataset_snu_cell_13_n
+RMSE: 26.79308319091797
+R2: 0.9852415323257446
+
+Iteration 53 // dataset_snu_cell_03_f
+RMSE: 15.50956916809082
+R2: 0.9958299994468689
+
+Iteration 53 // dataset_snu_cell_02_n
+RMSE: 43.272972106933594
+R2: 0.9616034030914307
+
+Iteration 53 // dataset_snu_cell_15_n
+RMSE: 100.44010925292969
+R2: 0.7303211092948914
+
+Iteration 53 // dataset_snu_cell_12_f
+RMSE: 30.36579132080078
+R2: 0.9800103306770325
+
+Iteration 53 // dataset_snu_cell_06_f
+RMSE: 25.365230560302734
+R2: 0.9879363179206848
+
+Iteration 53, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 901, Epochs: 1000, Sequence Length: 30
+Average RMSE: 40.2911262512207, Std Dev: 28.120006561279297
+Average R2: 0.9401571154594421, Std Dev: 0.09442307128287679
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 100.44010925292969
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7303211092948914
+
+=============================================================================
+
+Iteration 54 // dataset_snu_cell_15_n
+RMSE: 103.89952850341797
+R2: 0.7114242911338806
+
+Iteration 54 // dataset_snu_cell_03_f
+RMSE: 15.364212989807129
+R2: 0.9959077835083008
+
+Iteration 54 // dataset_snu_cell_08_n
+RMSE: 16.279375076293945
+R2: 0.9945657849311829
+
+Iteration 54 // dataset_snu_cell_02_f
+RMSE: 15.359781265258789
+R2: 0.9959101676940918
+
+Iteration 54 // dataset_snu_cell_12_f
+RMSE: 26.048124313354492
+R2: 0.9852908253669739
+
+Iteration 54 // dataset_snu_cell_09_n
+RMSE: 30.664743423461914
+R2: 0.9802567958831787
+
+Iteration 54, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 918, Epochs: 1000, Sequence Length: 30
+Average RMSE: 34.602630615234375, Std Dev: 31.53540802001953
+Average R2: 0.9438926080862681, Std Dev: 0.10412881507066102
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 103.89952850341797
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7114242911338806
+
+=============================================================================
+
+Iteration 55 // dataset_snu_cell_07_n
+RMSE: 11.987564086914062
+R2: 0.9972016215324402
+
+Iteration 55 // dataset_snu_cell_09_n
+RMSE: 29.430227279663086
+R2: 0.9818145036697388
+
+Iteration 55 // dataset_snu_cell_16_f
+RMSE: 13.420169830322266
+R2: 0.9963262677192688
+
+Iteration 55 // dataset_snu_cell_11_f
+RMSE: 24.161209106445312
+R2: 0.9894276857376099
+
+Iteration 55 // dataset_snu_cell_12_f
+RMSE: 33.02716064453125
+R2: 0.976352870464325
+
+Iteration 55 // dataset_snu_cell_06_n
+RMSE: 41.38829040527344
+R2: 0.9630631804466248
+
+Iteration 55, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 935, Epochs: 1000, Sequence Length: 30
+Average RMSE: 25.56910514831543, Std Dev: 10.446805953979492
+Average R2: 0.9840310215950012, Std Dev: 0.011953235843336638
+Data Name with Highest RMSE: dataset_snu_cell_06_n, RMSE: 41.38829040527344
+Data Name with Smallest R2: dataset_snu_cell_06_n, R2: 0.9630631804466248
+
+=============================================================================
+
+Iteration 56 // dataset_snu_cell_11_n
+RMSE: 31.66436767578125
+R2: 0.9797071814537048
+
+Iteration 56 // dataset_snu_cell_03_n
+RMSE: 28.77796745300293
+R2: 0.9844717383384705
+
+Iteration 56 // dataset_snu_cell_08_f
+RMSE: 35.5186767578125
+R2: 0.9761070609092712
+
+Iteration 56 // dataset_snu_cell_14_f
+RMSE: 12.547560691833496
+R2: 0.9967290759086609
+
+Iteration 56 // dataset_snu_cell_11_f
+RMSE: 20.052228927612305
+R2: 0.9927178621292114
+
+Iteration 56 // dataset_snu_cell_02_f
+RMSE: 14.727614402770996
+R2: 0.9962399005889893
+
+Iteration 56, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 952, Epochs: 1000, Sequence Length: 30
+Average RMSE: 23.88140296936035, Std Dev: 8.630250930786133
+Average R2: 0.987662136554718, Std Dev: 0.008044951944849955
+Data Name with Highest RMSE: dataset_snu_cell_08_f, RMSE: 35.5186767578125
+Data Name with Smallest R2: dataset_snu_cell_08_f, R2: 0.9761070609092712
+
+=============================================================================
+
+Iteration 57 // dataset_snu_cell_13_f
+RMSE: 36.04893112182617
+R2: 0.9718278050422668
+
+Iteration 57 // dataset_snu_cell_13_n
+RMSE: 26.205158233642578
+R2: 0.9858821630477905
+
+Iteration 57 // dataset_snu_cell_03_f
+RMSE: 19.931209564208984
+R2: 0.9931134581565857
+
+Iteration 57 // dataset_snu_cell_15_n
+RMSE: 104.84505462646484
+R2: 0.706148087978363
+
+Iteration 57 // dataset_snu_cell_04_n
+RMSE: 24.091001510620117
+R2: 0.9888969659805298
+
+Iteration 57 // dataset_snu_cell_07_n
+RMSE: 18.87043571472168
+R2: 0.9930656552314758
+
+Iteration 57, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 969, Epochs: 1000, Sequence Length: 30
+Average RMSE: 38.331966400146484, Std Dev: 30.266613006591797
+Average R2: 0.9398223559061686, Std Dev: 0.10474781298908815
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 104.84505462646484
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.706148087978363
+
+=============================================================================
+
+Iteration 58 // dataset_snu_cell_13_f
+RMSE: 27.86612892150879
+R2: 0.9831659197807312
+
+Iteration 58 // dataset_snu_cell_10_f
+RMSE: 39.93894577026367
+R2: 0.9699413776397705
+
+Iteration 58 // dataset_snu_cell_06_f
+RMSE: 30.539932250976562
+R2: 0.9825120568275452
+
+Iteration 58 // dataset_snu_cell_02_f
+RMSE: 19.612821578979492
+R2: 0.9933316707611084
+
+Iteration 58 // dataset_snu_cell_03_n
+RMSE: 31.539710998535156
+R2: 0.9813483357429504
+
+Iteration 58 // dataset_snu_cell_01_n
+RMSE: 15.085826873779297
+R2: 0.9954996705055237
+
+Iteration 58, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 986, Epochs: 1000, Sequence Length: 30
+Average RMSE: 27.43056297302246, Std Dev: 8.131340980529785
+Average R2: 0.9842998385429382, Std Dev: 0.008429797671698474
+Data Name with Highest RMSE: dataset_snu_cell_10_f, RMSE: 39.93894577026367
+Data Name with Smallest R2: dataset_snu_cell_10_f, R2: 0.9699413776397705
+
+=============================================================================
+
+Iteration 59 // dataset_snu_cell_12_f
+RMSE: 30.385807037353516
+R2: 0.9799839854240417
+
+Iteration 59 // dataset_snu_cell_04_f
+RMSE: 25.41646957397461
+R2: 0.9883579015731812
+
+Iteration 59 // dataset_snu_cell_01_f
+RMSE: 20.84676742553711
+R2: 0.9921870231628418
+
+Iteration 59 // dataset_snu_cell_11_f
+RMSE: 21.403779983520508
+R2: 0.9917031526565552
+
+Iteration 59 // dataset_snu_cell_02_n
+RMSE: 29.527576446533203
+R2: 0.9821221828460693
+
+Iteration 59 // dataset_snu_cell_07_f
+RMSE: 48.11860275268555
+R2: 0.9434579014778137
+
+Iteration 59, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1003, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.283166885375977, Std Dev: 9.167498588562012
+Average R2: 0.9796353578567505, Std Dev: 0.016804627001361965
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 48.11860275268555
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9434579014778137
+
+=============================================================================
+
+Iteration 60 // dataset_snu_cell_13_f
+RMSE: 32.782127380371094
+R2: 0.9767024517059326
+
+Iteration 60 // dataset_snu_cell_11_n
+RMSE: 27.253684997558594
+R2: 0.9849668145179749
+
+Iteration 60 // dataset_snu_cell_07_f
+RMSE: 54.98394775390625
+R2: 0.9261725544929504
+
+Iteration 60 // dataset_snu_cell_03_n
+RMSE: 30.266958236694336
+R2: 0.9828233122825623
+
+Iteration 60 // dataset_snu_cell_01_n
+RMSE: 15.63488483428955
+R2: 0.9951661229133606
+
+Iteration 60 // dataset_snu_cell_05_f
+RMSE: 62.51075744628906
+R2: 0.9048480987548828
+
+Iteration 60, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1020, Epochs: 1000, Sequence Length: 30
+Average RMSE: 37.23872756958008, Std Dev: 16.27094841003418
+Average R2: 0.9617798924446106, Std Dev: 0.03373152255251801
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 62.51075744628906
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9048480987548828
+
+=============================================================================
+
+Iteration 61 // dataset_snu_cell_08_n
+RMSE: 12.196109771728516
+R2: 0.9969499707221985
+
+Iteration 61 // dataset_snu_cell_01_n
+RMSE: 15.69987964630127
+R2: 0.9951258301734924
+
+Iteration 61 // dataset_snu_cell_03_n
+RMSE: 33.550193786621094
+R2: 0.9788946509361267
+
+Iteration 61 // dataset_snu_cell_05_n
+RMSE: 77.37916564941406
+R2: 0.8582672476768494
+
+Iteration 61 // dataset_snu_cell_06_f
+RMSE: 25.763050079345703
+R2: 0.9875549674034119
+
+Iteration 61 // dataset_snu_cell_14_f
+RMSE: 12.923782348632812
+R2: 0.9965299367904663
+
+Iteration 61, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1037, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.585363388061523, Std Dev: 22.683982849121094
+Average R2: 0.9688871006170908, Std Dev: 0.0498757024632882
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 77.37916564941406
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8582672476768494
+
+=============================================================================
+
+Iteration 62 // dataset_snu_cell_16_f
+RMSE: 22.384830474853516
+R2: 0.9897788763046265
+
+Iteration 62 // dataset_snu_cell_02_f
+RMSE: 28.81808090209961
+R2: 0.9856032133102417
+
+Iteration 62 // dataset_snu_cell_12_f
+RMSE: 45.48566818237305
+R2: 0.9551476240158081
+
+Iteration 62 // dataset_snu_cell_05_n
+RMSE: 88.73859405517578
+R2: 0.8135994672775269
+
+Iteration 62 // dataset_snu_cell_15_n
+RMSE: 96.03184509277344
+R2: 0.7534737586975098
+
+Iteration 62 // dataset_snu_cell_11_n
+RMSE: 31.207571029663086
+R2: 0.9802884459495544
+
+Iteration 62, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1054, Epochs: 1000, Sequence Length: 30
+Average RMSE: 52.11110305786133, Std Dev: 29.375938415527344
+Average R2: 0.9129818975925446, Std Dev: 0.09380784011432315
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 96.03184509277344
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7534737586975098
+
+=============================================================================
+
+Iteration 63 // dataset_snu_cell_13_n
+RMSE: 27.722936630249023
+R2: 0.9841994047164917
+
+Iteration 63 // dataset_snu_cell_06_f
+RMSE: 36.3685417175293
+R2: 0.9751998782157898
+
+Iteration 63 // dataset_snu_cell_02_n
+RMSE: 128.04605102539062
+R2: 0.6638047695159912
+
+Iteration 63 // dataset_snu_cell_16_f
+RMSE: 19.20734405517578
+R2: 0.9924746751785278
+
+Iteration 63 // dataset_snu_cell_09_n
+RMSE: 34.36628341674805
+R2: 0.975202739238739
+
+Iteration 63 // dataset_snu_cell_09_f
+RMSE: 37.4552116394043
+R2: 0.973956823348999
+
+Iteration 63, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1071, Epochs: 1000, Sequence Length: 30
+Average RMSE: 47.19439697265625, Std Dev: 36.687904357910156
+Average R2: 0.9274730483690897, Std Dev: 0.1180965475644061
+Data Name with Highest RMSE: dataset_snu_cell_02_n, RMSE: 128.04605102539062
+Data Name with Smallest R2: dataset_snu_cell_02_n, R2: 0.6638047695159912
+
+=============================================================================
+
+Iteration 64 // dataset_snu_cell_02_f
+RMSE: 20.107389450073242
+R2: 0.9929911494255066
+
+Iteration 64 // dataset_snu_cell_01_f
+RMSE: 27.38292694091797
+R2: 0.9865197539329529
+
+Iteration 64 // dataset_snu_cell_08_n
+RMSE: 13.180992126464844
+R2: 0.9964374899864197
+
+Iteration 64 // dataset_snu_cell_13_n
+RMSE: 24.316286087036133
+R2: 0.9878440499305725
+
+Iteration 64 // dataset_snu_cell_01_n
+RMSE: 19.056846618652344
+R2: 0.9928185939788818
+
+Iteration 64 // dataset_snu_cell_13_f
+RMSE: 35.396236419677734
+R2: 0.9728386998176575
+
+Iteration 64, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1088, Epochs: 1000, Sequence Length: 30
+Average RMSE: 23.2401123046875, Std Dev: 7.007043838500977
+Average R2: 0.9882416228453318, Std Dev: 0.007649094066815238
+Data Name with Highest RMSE: dataset_snu_cell_13_f, RMSE: 35.396236419677734
+Data Name with Smallest R2: dataset_snu_cell_13_f, R2: 0.9728386998176575
+
+=============================================================================
+
+Iteration 65 // dataset_snu_cell_07_f
+RMSE: 55.99848556518555
+R2: 0.9234229326248169
+
+Iteration 65 // dataset_snu_cell_13_n
+RMSE: 26.330137252807617
+R2: 0.9857471585273743
+
+Iteration 65 // dataset_snu_cell_11_f
+RMSE: 27.770666122436523
+R2: 0.9860329031944275
+
+Iteration 65 // dataset_snu_cell_06_n
+RMSE: 44.75279998779297
+R2: 0.9568138122558594
+
+Iteration 65 // dataset_snu_cell_04_n
+RMSE: 19.73711585998535
+R2: 0.9925475716590881
+
+Iteration 65 // dataset_snu_cell_08_f
+RMSE: 43.27129364013672
+R2: 0.9645386338233948
+
+Iteration 65, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1105, Epochs: 1000, Sequence Length: 30
+Average RMSE: 36.31008529663086, Std Dev: 12.613189697265625
+Average R2: 0.9681838353474935, Std Dev: 0.02368809308137321
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 55.99848556518555
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9234229326248169
+
+=============================================================================
+
+Iteration 66 // dataset_snu_cell_01_f
+RMSE: 22.753433227539062
+R2: 0.9906925559043884
+
+Iteration 66 // dataset_snu_cell_08_n
+RMSE: 9.90641975402832
+R2: 0.997987687587738
+
+Iteration 66 // dataset_snu_cell_01_n
+RMSE: 12.154812812805176
+R2: 0.997078537940979
+
+Iteration 66 // dataset_snu_cell_10_f
+RMSE: 34.90568923950195
+R2: 0.97704017162323
+
+Iteration 66 // dataset_snu_cell_03_f
+RMSE: 16.051279067993164
+R2: 0.9955336451530457
+
+Iteration 66 // dataset_snu_cell_05_f
+RMSE: 55.15224075317383
+R2: 0.9259313941001892
+
+Iteration 66, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1122, Epochs: 1000, Sequence Length: 30
+Average RMSE: 25.15397834777832, Std Dev: 15.732555389404297
+Average R2: 0.9807106653849283, Std Dev: 0.025495106402006217
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 55.15224075317383
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9259313941001892
+
+=============================================================================
+
+Iteration 67 // dataset_snu_cell_03_n
+RMSE: 26.696796417236328
+R2: 0.9866365194320679
+
+Iteration 67 // dataset_snu_cell_10_f
+RMSE: 45.344722747802734
+R2: 0.9612537622451782
+
+Iteration 67 // dataset_snu_cell_07_n
+RMSE: 19.714248657226562
+R2: 0.992431640625
+
+Iteration 67 // dataset_snu_cell_08_n
+RMSE: 18.93397331237793
+R2: 0.9926490783691406
+
+Iteration 67 // dataset_snu_cell_06_f
+RMSE: 33.243675231933594
+R2: 0.979278564453125
+
+Iteration 67 // dataset_snu_cell_15_n
+RMSE: 97.66535186767578
+R2: 0.745015561580658
+
+Iteration 67, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1139, Epochs: 1000, Sequence Length: 30
+Average RMSE: 40.26646041870117, Std Dev: 27.176414489746094
+Average R2: 0.9428775211175283, Std Dev: 0.08912514219771249
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 97.66535186767578
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.745015561580658
+
+=============================================================================
+
+Iteration 68 // dataset_snu_cell_02_n
+RMSE: 33.952537536621094
+R2: 0.976362407207489
+
+Iteration 68 // dataset_snu_cell_02_f
+RMSE: 18.158254623413086
+R2: 0.9942840933799744
+
+Iteration 68 // dataset_snu_cell_08_n
+RMSE: 12.287239074707031
+R2: 0.9969042539596558
+
+Iteration 68 // dataset_snu_cell_10_f
+RMSE: 39.78608322143555
+R2: 0.9701710343360901
+
+Iteration 68 // dataset_snu_cell_16_f
+RMSE: 14.49370288848877
+R2: 0.9957150220870972
+
+Iteration 68 // dataset_snu_cell_14_f
+RMSE: 15.495833396911621
+R2: 0.9950113296508789
+
+Iteration 68, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1156, Epochs: 1000, Sequence Length: 30
+Average RMSE: 22.362274169921875, Std Dev: 10.536965370178223
+Average R2: 0.9880746901035309, Std Dev: 0.01065150997467623
+Data Name with Highest RMSE: dataset_snu_cell_10_f, RMSE: 39.78608322143555
+Data Name with Smallest R2: dataset_snu_cell_10_f, R2: 0.9701710343360901
+
+=============================================================================
+
+Iteration 69 // dataset_snu_cell_16_f
+RMSE: 18.783374786376953
+R2: 0.9928032159805298
+
+Iteration 69 // dataset_snu_cell_07_f
+RMSE: 54.278343200683594
+R2: 0.9280552268028259
+
+Iteration 69 // dataset_snu_cell_06_n
+RMSE: 47.856868743896484
+R2: 0.9506152272224426
+
+Iteration 69 // dataset_snu_cell_04_n
+RMSE: 24.279539108276367
+R2: 0.9887225031852722
+
+Iteration 69 // dataset_snu_cell_11_n
+RMSE: 33.452796936035156
+R2: 0.977350115776062
+
+Iteration 69 // dataset_snu_cell_05_n
+RMSE: 87.46267700195312
+R2: 0.8189212083816528
+
+Iteration 69, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1173, Epochs: 1000, Sequence Length: 30
+Average RMSE: 44.35226821899414, Std Dev: 22.893951416015625
+Average R2: 0.9427445828914642, Std Dev: 0.059759700895889445
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 87.46267700195312
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8189212083816528
+
+=============================================================================
+
+Iteration 70 // dataset_snu_cell_13_n
+RMSE: 25.83070945739746
+R2: 0.9862827062606812
+
+Iteration 70 // dataset_snu_cell_09_n
+RMSE: 31.02505874633789
+R2: 0.9797901511192322
+
+Iteration 70 // dataset_snu_cell_03_n
+RMSE: 33.31626510620117
+R2: 0.9791879653930664
+
+Iteration 70 // dataset_snu_cell_14_f
+RMSE: 18.139362335205078
+R2: 0.9931640625
+
+Iteration 70 // dataset_snu_cell_06_n
+RMSE: 44.12526321411133
+R2: 0.9580164551734924
+
+Iteration 70 // dataset_snu_cell_01_n
+RMSE: 23.400447845458984
+R2: 0.9891718029975891
+
+Iteration 70, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1190, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.306182861328125, Std Dev: 8.269371032714844
+Average R2: 0.9809355239073435, Std Dev: 0.011369662555062264
+Data Name with Highest RMSE: dataset_snu_cell_06_n, RMSE: 44.12526321411133
+Data Name with Smallest R2: dataset_snu_cell_06_n, R2: 0.9580164551734924
+
+=============================================================================
+
+Iteration 71 // dataset_snu_cell_01_f
+RMSE: 31.342605590820312
+R2: 0.9823393225669861
+
+Iteration 71 // dataset_snu_cell_11_f
+RMSE: 29.30748748779297
+R2: 0.984444260597229
+
+Iteration 71 // dataset_snu_cell_10_f
+RMSE: 45.42500305175781
+R2: 0.9611164331436157
+
+Iteration 71 // dataset_snu_cell_13_f
+RMSE: 37.759456634521484
+R2: 0.9690908193588257
+
+Iteration 71 // dataset_snu_cell_16_f
+RMSE: 16.52886199951172
+R2: 0.9944271445274353
+
+Iteration 71 // dataset_snu_cell_12_f
+RMSE: 34.122867584228516
+R2: 0.9747577905654907
+
+Iteration 71, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1207, Epochs: 1000, Sequence Length: 30
+Average RMSE: 32.41437911987305, Std Dev: 8.793143272399902
+Average R2: 0.9776959617932638, Std Dev: 0.010836627000070655
+Data Name with Highest RMSE: dataset_snu_cell_10_f, RMSE: 45.42500305175781
+Data Name with Smallest R2: dataset_snu_cell_10_f, R2: 0.9611164331436157
+
+=============================================================================
+
+Iteration 72 // dataset_snu_cell_11_n
+RMSE: 32.46186447143555
+R2: 0.9786721467971802
+
+Iteration 72 // dataset_snu_cell_04_n
+RMSE: 21.83910369873047
+R2: 0.9908756613731384
+
+Iteration 72 // dataset_snu_cell_12_f
+RMSE: 33.27976608276367
+R2: 0.9759897589683533
+
+Iteration 72 // dataset_snu_cell_06_f
+RMSE: 32.454063415527344
+R2: 0.9802512526512146
+
+Iteration 72 // dataset_snu_cell_03_f
+RMSE: 20.17799186706543
+R2: 0.9929418563842773
+
+Iteration 72 // dataset_snu_cell_01_n
+RMSE: 20.564842224121094
+R2: 0.991637110710144
+
+Iteration 72, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1224, Epochs: 1000, Sequence Length: 30
+Average RMSE: 26.7962703704834, Std Dev: 5.9630961418151855
+Average R2: 0.9850612978140513, Std Dev: 0.006896882682709456
+Data Name with Highest RMSE: dataset_snu_cell_12_f, RMSE: 33.27976608276367
+Data Name with Smallest R2: dataset_snu_cell_12_f, R2: 0.9759897589683533
+
+=============================================================================
+
+Iteration 73 // dataset_snu_cell_02_f
+RMSE: 25.243257522583008
+R2: 0.9889534711837769
+
+Iteration 73 // dataset_snu_cell_03_n
+RMSE: 28.780284881591797
+R2: 0.9844692349433899
+
+Iteration 73 // dataset_snu_cell_13_f
+RMSE: 30.992918014526367
+R2: 0.9791761636734009
+
+Iteration 73 // dataset_snu_cell_07_f
+RMSE: 46.42424392700195
+R2: 0.9473696947097778
+
+Iteration 73 // dataset_snu_cell_04_f
+RMSE: 27.47970199584961
+R2: 0.986391007900238
+
+Iteration 73 // dataset_snu_cell_05_n
+RMSE: 77.63786315917969
+R2: 0.8573179841041565
+
+Iteration 73, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1241, Epochs: 1000, Sequence Length: 30
+Average RMSE: 39.4263801574707, Std Dev: 18.427488327026367
+Average R2: 0.9572795927524567, Std Dev: 0.04683299195034708
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 77.63786315917969
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8573179841041565
+
+=============================================================================
+
+Iteration 74 // dataset_snu_cell_16_f
+RMSE: 12.781088829040527
+R2: 0.9966678023338318
+
+Iteration 74 // dataset_snu_cell_12_f
+RMSE: 26.698205947875977
+R2: 0.9845474362373352
+
+Iteration 74 // dataset_snu_cell_13_n
+RMSE: 17.78216552734375
+R2: 0.993499219417572
+
+Iteration 74 // dataset_snu_cell_11_f
+RMSE: 20.316781997680664
+R2: 0.9925244450569153
+
+Iteration 74 // dataset_snu_cell_01_n
+RMSE: 12.160611152648926
+R2: 0.9970757365226746
+
+Iteration 74 // dataset_snu_cell_08_f
+RMSE: 36.47916793823242
+R2: 0.9747973680496216
+
+Iteration 74, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1258, Epochs: 1000, Sequence Length: 30
+Average RMSE: 21.03633689880371, Std Dev: 8.451556205749512
+Average R2: 0.9898520012696584, Std Dev: 0.007893689913875892
+Data Name with Highest RMSE: dataset_snu_cell_08_f, RMSE: 36.47916793823242
+Data Name with Smallest R2: dataset_snu_cell_08_f, R2: 0.9747973680496216
+
+=============================================================================
+
+Iteration 75 // dataset_snu_cell_08_f
+RMSE: 39.60188293457031
+R2: 0.9702978730201721
+
+Iteration 75 // dataset_snu_cell_07_n
+RMSE: 26.160890579223633
+R2: 0.9866725206375122
+
+Iteration 75 // dataset_snu_cell_10_f
+RMSE: 47.73097229003906
+R2: 0.9570684432983398
+
+Iteration 75 // dataset_snu_cell_02_n
+RMSE: 53.3386344909668
+R2: 0.9416631460189819
+
+Iteration 75 // dataset_snu_cell_05_n
+RMSE: 88.20865631103516
+R2: 0.8158191442489624
+
+Iteration 75 // dataset_snu_cell_02_f
+RMSE: 25.34619140625
+R2: 0.9888631701469421
+
+Iteration 75, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1275, Epochs: 1000, Sequence Length: 30
+Average RMSE: 46.731204986572266, Std Dev: 21.19874382019043
+Average R2: 0.9433973828951517, Std Dev: 0.059343104306181435
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 88.20865631103516
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8158191442489624
+
+=============================================================================
+
+Iteration 76 // dataset_snu_cell_02_f
+RMSE: 21.397018432617188
+R2: 0.9920632839202881
+
+Iteration 76 // dataset_snu_cell_05_f
+RMSE: 69.62236785888672
+R2: 0.8819664716720581
+
+Iteration 76 // dataset_snu_cell_07_f
+RMSE: 63.03328323364258
+R2: 0.9029744863510132
+
+Iteration 76 // dataset_snu_cell_01_f
+RMSE: 27.256450653076172
+R2: 0.9866440296173096
+
+Iteration 76 // dataset_snu_cell_10_f
+RMSE: 41.383705139160156
+R2: 0.9677273035049438
+
+Iteration 76 // dataset_snu_cell_15_f
+RMSE: 20.36156463623047
+R2: 0.9915430545806885
+
+Iteration 76, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1292, Epochs: 1000, Sequence Length: 30
+Average RMSE: 40.50906753540039, Std Dev: 19.589595794677734
+Average R2: 0.9538197716077169, Std Dev: 0.0445432438088589
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 69.62236785888672
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.8819664716720581
+
+=============================================================================
+
+Iteration 77 // dataset_snu_cell_05_f
+RMSE: 61.28633499145508
+R2: 0.9085391759872437
+
+Iteration 77 // dataset_snu_cell_04_n
+RMSE: 29.327045440673828
+R2: 0.9835461378097534
+
+Iteration 77 // dataset_snu_cell_01_f
+RMSE: 37.790191650390625
+R2: 0.9743258357048035
+
+Iteration 77 // dataset_snu_cell_07_n
+RMSE: 24.983549118041992
+R2: 0.9878451228141785
+
+Iteration 77 // dataset_snu_cell_08_n
+RMSE: 22.543560028076172
+R2: 0.9895791411399841
+
+Iteration 77 // dataset_snu_cell_03_n
+RMSE: 34.74497604370117
+R2: 0.977364718914032
+
+Iteration 77, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1309, Epochs: 1000, Sequence Length: 30
+Average RMSE: 35.11260986328125, Std Dev: 12.82198715209961
+Average R2: 0.9702000220616659, Std Dev: 0.02809339720823235
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 61.28633499145508
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9085391759872437
+
+=============================================================================
+
+Iteration 78 // dataset_snu_cell_05_n
+RMSE: 86.15201568603516
+R2: 0.8243075609207153
+
+Iteration 78 // dataset_snu_cell_03_n
+RMSE: 27.40694236755371
+R2: 0.9859160780906677
+
+Iteration 78 // dataset_snu_cell_14_f
+RMSE: 16.553028106689453
+R2: 0.9943073987960815
+
+Iteration 78 // dataset_snu_cell_01_n
+RMSE: 21.25429344177246
+R2: 0.9910669326782227
+
+Iteration 78 // dataset_snu_cell_10_f
+RMSE: 48.48515701293945
+R2: 0.9557009935379028
+
+Iteration 78 // dataset_snu_cell_13_f
+RMSE: 33.66532516479492
+R2: 0.9754301905632019
+
+Iteration 78, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1326, Epochs: 1000, Sequence Length: 30
+Average RMSE: 38.91946029663086, Std Dev: 23.433866500854492
+Average R2: 0.9544548590977987, Std Dev: 0.05957951795248074
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 86.15201568603516
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8243075609207153
+
+=============================================================================
+
+Iteration 79 // dataset_snu_cell_04_f
+RMSE: 32.68370056152344
+R2: 0.9807485342025757
+
+Iteration 79 // dataset_snu_cell_05_n
+RMSE: 90.43225860595703
+R2: 0.8064162731170654
+
+Iteration 79 // dataset_snu_cell_01_f
+RMSE: 28.719697952270508
+R2: 0.9851714968681335
+
+Iteration 79 // dataset_snu_cell_12_f
+RMSE: 46.069393157958984
+R2: 0.9539890289306641
+
+Iteration 79 // dataset_snu_cell_10_f
+RMSE: 45.00349044799805
+R2: 0.961834728717804
+
+Iteration 79 // dataset_snu_cell_16_f
+RMSE: 13.382302284240723
+R2: 0.9963469505310059
+
+Iteration 79, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1343, Epochs: 1000, Sequence Length: 30
+Average RMSE: 42.715145111083984, Std Dev: 23.98029899597168
+Average R2: 0.9474178353945414, Std Dev: 0.06463074695014794
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 90.43225860595703
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8064162731170654
+
+=============================================================================
+
+Iteration 80 // dataset_snu_cell_01_f
+RMSE: 36.36498260498047
+R2: 0.9762258529663086
+
+Iteration 80 // dataset_snu_cell_10_f
+RMSE: 51.071537017822266
+R2: 0.9508488178253174
+
+Iteration 80 // dataset_snu_cell_13_n
+RMSE: 24.360292434692383
+R2: 0.9878000020980835
+
+Iteration 80 // dataset_snu_cell_07_n
+RMSE: 17.020389556884766
+R2: 0.9943586587905884
+
+Iteration 80 // dataset_snu_cell_04_f
+RMSE: 39.392333984375
+R2: 0.9720343351364136
+
+Iteration 80 // dataset_snu_cell_09_n
+RMSE: 31.315454483032227
+R2: 0.9794100522994995
+
+Iteration 80, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1360, Epochs: 1000, Sequence Length: 30
+Average RMSE: 33.25416564941406, Std Dev: 10.88736343383789
+Average R2: 0.9767796198527018, Std Dev: 0.01373936854600513
+Data Name with Highest RMSE: dataset_snu_cell_10_f, RMSE: 51.071537017822266
+Data Name with Smallest R2: dataset_snu_cell_10_f, R2: 0.9508488178253174
+
+=============================================================================
+
+Iteration 81 // dataset_snu_cell_07_n
+RMSE: 14.767472267150879
+R2: 0.995753288269043
+
+Iteration 81 // dataset_snu_cell_07_f
+RMSE: 44.840911865234375
+R2: 0.9508984684944153
+
+Iteration 81 // dataset_snu_cell_06_n
+RMSE: 44.10152053833008
+R2: 0.9580616354942322
+
+Iteration 81 // dataset_snu_cell_11_n
+RMSE: 32.41917037963867
+R2: 0.978728175163269
+
+Iteration 81 // dataset_snu_cell_05_n
+RMSE: 84.87699890136719
+R2: 0.8294694423675537
+
+Iteration 81 // dataset_snu_cell_10_f
+RMSE: 46.400543212890625
+R2: 0.9594283699989319
+
+Iteration 81, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1377, Epochs: 1000, Sequence Length: 30
+Average RMSE: 44.56776809692383, Std Dev: 21.071826934814453
+Average R2: 0.9453898966312408, Std Dev: 0.053965204551513685
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 84.87699890136719
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8294694423675537
+
+=============================================================================
+
+Iteration 82 // dataset_snu_cell_11_n
+RMSE: 37.839778900146484
+R2: 0.9710200428962708
+
+Iteration 82 // dataset_snu_cell_05_f
+RMSE: 65.72142791748047
+R2: 0.8948227167129517
+
+Iteration 82 // dataset_snu_cell_15_f
+RMSE: 25.9934139251709
+R2: 0.9862177968025208
+
+Iteration 82 // dataset_snu_cell_15_n
+RMSE: 107.56192016601562
+R2: 0.6907215118408203
+
+Iteration 82 // dataset_snu_cell_04_f
+RMSE: 39.81448745727539
+R2: 0.9714317321777344
+
+Iteration 82 // dataset_snu_cell_01_n
+RMSE: 27.212488174438477
+R2: 0.9853565692901611
+
+Iteration 82, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1394, Epochs: 1000, Sequence Length: 30
+Average RMSE: 50.69058609008789, Std Dev: 28.591604232788086
+Average R2: 0.9165950616200765, Std Dev: 0.10570202198377285
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 107.56192016601562
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.6907215118408203
+
+=============================================================================
+
+Iteration 83 // dataset_snu_cell_06_f
+RMSE: 29.750415802001953
+R2: 0.9834045767784119
+
+Iteration 83 // dataset_snu_cell_08_f
+RMSE: 39.06038284301758
+R2: 0.971104621887207
+
+Iteration 83 // dataset_snu_cell_02_f
+RMSE: 15.412396430969238
+R2: 0.9958820939064026
+
+Iteration 83 // dataset_snu_cell_16_f
+RMSE: 12.396960258483887
+R2: 0.9968650937080383
+
+Iteration 83 // dataset_snu_cell_04_n
+RMSE: 14.172861099243164
+R2: 0.9961572289466858
+
+Iteration 83 // dataset_snu_cell_11_f
+RMSE: 23.71721649169922
+R2: 0.9898126721382141
+
+Iteration 83, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1411, Epochs: 1000, Sequence Length: 30
+Average RMSE: 22.418371200561523, Std Dev: 9.5734281539917
+Average R2: 0.9888710478941599, Std Dev: 0.00924268020947016
+Data Name with Highest RMSE: dataset_snu_cell_08_f, RMSE: 39.06038284301758
+Data Name with Smallest R2: dataset_snu_cell_08_f, R2: 0.971104621887207
+
+=============================================================================
+
+Iteration 84 // dataset_snu_cell_02_n
+RMSE: 31.28633689880371
+R2: 0.9799290299415588
+
+Iteration 84 // dataset_snu_cell_08_f
+RMSE: 37.927284240722656
+R2: 0.9727567434310913
+
+Iteration 84 // dataset_snu_cell_15_f
+RMSE: 15.818379402160645
+R2: 0.9948959350585938
+
+Iteration 84 // dataset_snu_cell_05_n
+RMSE: 82.584228515625
+R2: 0.8385580778121948
+
+Iteration 84 // dataset_snu_cell_03_f
+RMSE: 17.54172706604004
+R2: 0.9946656823158264
+
+Iteration 84 // dataset_snu_cell_10_f
+RMSE: 42.32970428466797
+R2: 0.9662350416183472
+
+Iteration 84, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1428, Epochs: 1000, Sequence Length: 30
+Average RMSE: 37.91461181640625, Std Dev: 22.218984603881836
+Average R2: 0.957840085029602, Std Dev: 0.05437272809658194
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 82.584228515625
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8385580778121948
+
+=============================================================================
+
+Iteration 85 // dataset_snu_cell_13_n
+RMSE: 21.861303329467773
+R2: 0.9901746511459351
+
+Iteration 85 // dataset_snu_cell_15_f
+RMSE: 15.549781799316406
+R2: 0.995067834854126
+
+Iteration 85 // dataset_snu_cell_09_f
+RMSE: 26.810983657836914
+R2: 0.9866557121276855
+
+Iteration 85 // dataset_snu_cell_05_n
+RMSE: 86.73616027832031
+R2: 0.8219169974327087
+
+Iteration 85 // dataset_snu_cell_05_f
+RMSE: 63.640464782714844
+R2: 0.90137779712677
+
+Iteration 85 // dataset_snu_cell_11_n
+RMSE: 29.23809814453125
+R2: 0.9826979041099548
+
+Iteration 85, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1445, Epochs: 1000, Sequence Length: 30
+Average RMSE: 40.63946533203125, Std Dev: 25.681644439697266
+Average R2: 0.9463151494661967, Std Dev: 0.06422072863189289
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 86.73616027832031
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8219169974327087
+
+=============================================================================
+
+Iteration 86 // dataset_snu_cell_02_n
+RMSE: 65.54497528076172
+R2: 0.9119077324867249
+
+Iteration 86 // dataset_snu_cell_11_f
+RMSE: 28.317554473876953
+R2: 0.9854773879051208
+
+Iteration 86 // dataset_snu_cell_07_n
+RMSE: 20.491222381591797
+R2: 0.9918233156204224
+
+Iteration 86 // dataset_snu_cell_05_n
+RMSE: 88.70094299316406
+R2: 0.8137575387954712
+
+Iteration 86 // dataset_snu_cell_14_f
+RMSE: 16.528221130371094
+R2: 0.9943244457244873
+
+Iteration 86 // dataset_snu_cell_16_f
+RMSE: 13.202290534973145
+R2: 0.996444582939148
+
+Iteration 86, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1462, Epochs: 1000, Sequence Length: 30
+Average RMSE: 38.79753494262695, Std Dev: 28.289472579956055
+Average R2: 0.9489558339118958, Std Dev: 0.06725087104477218
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 88.70094299316406
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8137575387954712
+
+=============================================================================
+
+Iteration 87 // dataset_snu_cell_14_f
+RMSE: 14.79129409790039
+R2: 0.9954546689987183
+
+Iteration 87 // dataset_snu_cell_02_f
+RMSE: 15.254216194152832
+R2: 0.9959661960601807
+
+Iteration 87 // dataset_snu_cell_07_f
+RMSE: 48.53618240356445
+R2: 0.9424722790718079
+
+Iteration 87 // dataset_snu_cell_16_f
+RMSE: 12.601160049438477
+R2: 0.9967609643936157
+
+Iteration 87 // dataset_snu_cell_09_n
+RMSE: 26.688623428344727
+R2: 0.9850448369979858
+
+Iteration 87 // dataset_snu_cell_09_f
+RMSE: 24.828943252563477
+R2: 0.9885557889938354
+
+Iteration 87, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1479, Epochs: 1000, Sequence Length: 30
+Average RMSE: 23.783403396606445, Std Dev: 12.253442764282227
+Average R2: 0.9840424557526907, Std Dev: 0.019077164318144477
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 48.53618240356445
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9424722790718079
+
+=============================================================================
+
+Iteration 88 // dataset_snu_cell_04_n
+RMSE: 17.65852928161621
+R2: 0.9940345883369446
+
+Iteration 88 // dataset_snu_cell_15_n
+RMSE: 97.43245697021484
+R2: 0.7462301850318909
+
+Iteration 88 // dataset_snu_cell_09_n
+RMSE: 20.614221572875977
+R2: 0.9910777807235718
+
+Iteration 88 // dataset_snu_cell_01_n
+RMSE: 12.725740432739258
+R2: 0.9967976212501526
+
+Iteration 88 // dataset_snu_cell_03_f
+RMSE: 13.39141845703125
+R2: 0.9968912601470947
+
+Iteration 88 // dataset_snu_cell_11_n
+RMSE: 23.52082633972168
+R2: 0.9888029098510742
+
+Iteration 88, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1496, Epochs: 1000, Sequence Length: 30
+Average RMSE: 30.890533447265625, Std Dev: 29.997241973876953
+Average R2: 0.9523057242234548, Std Dev: 0.09220551483137504
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 97.43245697021484
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7462301850318909
+
+=============================================================================
+
+Iteration 89 // dataset_snu_cell_01_n
+RMSE: 19.82196617126465
+R2: 0.9922303557395935
+
+Iteration 89 // dataset_snu_cell_09_n
+RMSE: 32.247047424316406
+R2: 0.9781667590141296
+
+Iteration 89 // dataset_snu_cell_15_n
+RMSE: 100.1689224243164
+R2: 0.7317754030227661
+
+Iteration 89 // dataset_snu_cell_05_n
+RMSE: 75.02177429199219
+R2: 0.8667716383934021
+
+Iteration 89 // dataset_snu_cell_04_f
+RMSE: 29.804269790649414
+R2: 0.9839912056922913
+
+Iteration 89 // dataset_snu_cell_16_f
+RMSE: 17.13228988647461
+R2: 0.9940128326416016
+
+Iteration 89, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1513, Epochs: 1000, Sequence Length: 30
+Average RMSE: 45.69938278198242, Std Dev: 30.946386337280273
+Average R2: 0.9244913657506307, Std Dev: 0.09687973053808535
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 100.1689224243164
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7317754030227661
+
+=============================================================================
+
+Iteration 90 // dataset_snu_cell_11_n
+RMSE: 34.74211120605469
+R2: 0.975570559501648
+
+Iteration 90 // dataset_snu_cell_07_n
+RMSE: 18.641054153442383
+R2: 0.9932332038879395
+
+Iteration 90 // dataset_snu_cell_06_n
+RMSE: 46.848541259765625
+R2: 0.952674388885498
+
+Iteration 90 // dataset_snu_cell_07_f
+RMSE: 53.35007858276367
+R2: 0.9304949641227722
+
+Iteration 90 // dataset_snu_cell_13_f
+RMSE: 38.07096862792969
+R2: 0.9685786962509155
+
+Iteration 90 // dataset_snu_cell_15_f
+RMSE: 19.221342086791992
+R2: 0.9924637079238892
+
+Iteration 90, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1530, Epochs: 1000, Sequence Length: 30
+Average RMSE: 35.14568328857422, Std Dev: 12.929710388183594
+Average R2: 0.9688359200954437, Std Dev: 0.022098813475327075
+Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 53.35007858276367
+Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.9304949641227722
+
+=============================================================================
+
+Iteration 91 // dataset_snu_cell_06_n
+RMSE: 40.73650360107422
+R2: 0.9642174243927002
+
+Iteration 91 // dataset_snu_cell_09_f
+RMSE: 29.143579483032227
+R2: 0.9842327833175659
+
+Iteration 91 // dataset_snu_cell_06_f
+RMSE: 29.7330322265625
+R2: 0.9834239482879639
+
+Iteration 91 // dataset_snu_cell_10_f
+RMSE: 38.58767318725586
+R2: 0.9719409346580505
+
+Iteration 91 // dataset_snu_cell_16_f
+RMSE: 11.465517044067383
+R2: 0.9973185062408447
+
+Iteration 91 // dataset_snu_cell_01_f
+RMSE: 26.133731842041016
+R2: 0.9877216219902039
+
+Iteration 91, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1547, Epochs: 1000, Sequence Length: 30
+Average RMSE: 29.300004959106445, Std Dev: 9.533803939819336
+Average R2: 0.9814758698145548, Std Dev: 0.010725072321393714
+Data Name with Highest RMSE: dataset_snu_cell_06_n, RMSE: 40.73650360107422
+Data Name with Smallest R2: dataset_snu_cell_06_n, R2: 0.9642174243927002
+
+=============================================================================
+
+Iteration 92 // dataset_snu_cell_05_n
+RMSE: 89.45716094970703
+R2: 0.8105684518814087
+
+Iteration 92 // dataset_snu_cell_13_n
+RMSE: 29.904464721679688
+R2: 0.9816148281097412
+
+Iteration 92 // dataset_snu_cell_12_f
+RMSE: 48.20018768310547
+R2: 0.9496344327926636
+
+Iteration 92 // dataset_snu_cell_09_n
+RMSE: 40.814491271972656
+R2: 0.9650242328643799
+
+Iteration 92 // dataset_snu_cell_04_n
+RMSE: 27.673768997192383
+R2: 0.9853489995002747
+
+Iteration 92 // dataset_snu_cell_16_f
+RMSE: 16.246910095214844
+R2: 0.9946156740188599
+
+Iteration 92, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1564, Epochs: 1000, Sequence Length: 30
+Average RMSE: 42.04949951171875, Std Dev: 23.47615623474121
+Average R2: 0.9478011031945547, Std Dev: 0.06308408995217325
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 89.45716094970703
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8105684518814087
+
+=============================================================================
+
+Iteration 93 // dataset_snu_cell_15_n
+RMSE: 91.5903091430664
+R2: 0.7757503986358643
+
+Iteration 93 // dataset_snu_cell_14_f
+RMSE: 17.446321487426758
+R2: 0.9936764240264893
+
+Iteration 93 // dataset_snu_cell_10_f
+RMSE: 42.7338752746582
+R2: 0.9655871391296387
+
+Iteration 93 // dataset_snu_cell_03_n
+RMSE: 29.786842346191406
+R2: 0.983363926410675
+
+Iteration 93 // dataset_snu_cell_06_n
+RMSE: 42.31471633911133
+R2: 0.9613910913467407
+
+Iteration 93 // dataset_snu_cell_08_n
+RMSE: 15.978191375732422
+R2: 0.994765043258667
+
+Iteration 93, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1581, Epochs: 1000, Sequence Length: 30
+Average RMSE: 39.975040435791016, Std Dev: 25.378509521484375
+Average R2: 0.9457556704680125, Std Dev: 0.0770846332979203
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 91.5903091430664
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7757503986358643
+
+=============================================================================
+
+Iteration 94 // dataset_snu_cell_09_f
+RMSE: 30.231037139892578
+R2: 0.9830341339111328
+
+Iteration 94 // dataset_snu_cell_13_f
+RMSE: 34.95869445800781
+R2: 0.9735060334205627
+
+Iteration 94 // dataset_snu_cell_04_f
+RMSE: 29.27763557434082
+R2: 0.9845519661903381
+
+Iteration 94 // dataset_snu_cell_05_n
+RMSE: 82.68531036376953
+R2: 0.8381626009941101
+
+Iteration 94 // dataset_snu_cell_06_f
+RMSE: 28.26714515686035
+R2: 0.9850181341171265
+
+Iteration 94 // dataset_snu_cell_05_f
+RMSE: 65.56576538085938
+R2: 0.8953203558921814
+
+Iteration 94, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1598, Epochs: 1000, Sequence Length: 30
+Average RMSE: 45.16426467895508, Std Dev: 21.170351028442383
+Average R2: 0.9432655374209086, Std Dev: 0.05669986048465467
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 82.68531036376953
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8381626009941101
+
+=============================================================================
+
+Iteration 95 // dataset_snu_cell_05_f
+RMSE: 56.88039016723633
+R2: 0.9212169051170349
+
+Iteration 95 // dataset_snu_cell_16_f
+RMSE: 20.755760192871094
+R2: 0.9912124276161194
+
+Iteration 95 // dataset_snu_cell_01_f
+RMSE: 29.16594123840332
+R2: 0.9847071170806885
+
+Iteration 95 // dataset_snu_cell_15_n
+RMSE: 105.7839584350586
+R2: 0.7008615136146545
+
+Iteration 95 // dataset_snu_cell_04_f
+RMSE: 32.64937210083008
+R2: 0.9807889461517334
+
+Iteration 95 // dataset_snu_cell_08_n
+RMSE: 19.253896713256836
+R2: 0.9923985600471497
+
+Iteration 95, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1615, Epochs: 1000, Sequence Length: 30
+Average RMSE: 44.0815544128418, Std Dev: 30.234285354614258
+Average R2: 0.9285309116045634, Std Dev: 0.10470718430899643
+Data Name with Highest RMSE: dataset_snu_cell_15_n, RMSE: 105.7839584350586
+Data Name with Smallest R2: dataset_snu_cell_15_n, R2: 0.7008615136146545
+
+=============================================================================
+
+Iteration 96 // dataset_snu_cell_05_n
+RMSE: 86.382080078125
+R2: 0.8233679533004761
+
+Iteration 96 // dataset_snu_cell_05_f
+RMSE: 75.28206634521484
+R2: 0.8619962334632874
+
+Iteration 96 // dataset_snu_cell_08_f
+RMSE: 32.4765739440918
+R2: 0.9800245761871338
+
+Iteration 96 // dataset_snu_cell_15_f
+RMSE: 18.713972091674805
+R2: 0.9928563237190247
+
+Iteration 96 // dataset_snu_cell_11_f
+RMSE: 21.240631103515625
+R2: 0.9918291568756104
+
+Iteration 96 // dataset_snu_cell_07_f
+RMSE: 62.618099212646484
+R2: 0.9042484760284424
+
+Iteration 96, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1632, Epochs: 1000, Sequence Length: 30
+Average RMSE: 49.452239990234375, Std Dev: 26.562009811401367
+Average R2: 0.9257204532623291, Std Dev: 0.06686351746382256
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 86.382080078125
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8233679533004761
+
+=============================================================================
+
+Iteration 97 // dataset_snu_cell_03_n
+RMSE: 31.399700164794922
+R2: 0.9815135598182678
+
+Iteration 97 // dataset_snu_cell_14_f
+RMSE: 20.15114402770996
+R2: 0.9915636777877808
+
+Iteration 97 // dataset_snu_cell_15_f
+RMSE: 20.042869567871094
+R2: 0.9918057322502136
+
+Iteration 97 // dataset_snu_cell_13_n
+RMSE: 27.7109432220459
+R2: 0.9842130541801453
+
+Iteration 97 // dataset_snu_cell_11_n
+RMSE: 30.89019203186035
+R2: 0.9806873798370361
+
+Iteration 97 // dataset_snu_cell_05_n
+RMSE: 85.91004180908203
+R2: 0.8252931237220764
+
+Iteration 97, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1649, Epochs: 1000, Sequence Length: 30
+Average RMSE: 36.01748275756836, Std Dev: 22.777210235595703
+Average R2: 0.95917942126592, Std Dev: 0.060037274133897624
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 85.91004180908203
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.8252931237220764
+
+=============================================================================
+
+Iteration 98 // dataset_snu_cell_05_f
+RMSE: 49.504676818847656
+R2: 0.9403238892555237
+
+Iteration 98 // dataset_snu_cell_02_f
+RMSE: 11.795979499816895
+R2: 0.9975878596305847
+
+Iteration 98 // dataset_snu_cell_09_n
+RMSE: 20.776565551757812
+R2: 0.9909366965293884
+
+Iteration 98 // dataset_snu_cell_13_n
+RMSE: 13.014145851135254
+R2: 0.9965180158615112
+
+Iteration 98 // dataset_snu_cell_07_n
+RMSE: 16.239177703857422
+R2: 0.9948646426200867
+
+Iteration 98 // dataset_snu_cell_04_f
+RMSE: 15.170551300048828
+R2: 0.9958523511886597
+
+Iteration 98, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1666, Epochs: 1000, Sequence Length: 30
+Average RMSE: 21.08351707458496, Std Dev: 13.023444175720215
+Average R2: 0.9860139091809591, Std Dev: 0.02053953409801339
+Data Name with Highest RMSE: dataset_snu_cell_05_f, RMSE: 49.504676818847656
+Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.9403238892555237
+
+=============================================================================
+
+Iteration 99 // dataset_snu_cell_09_n
+RMSE: 42.004825592041016
+R2: 0.9629544019699097
+
+Iteration 99 // dataset_snu_cell_05_n
+RMSE: 96.77349853515625
+R2: 0.7783156633377075
+
+Iteration 99 // dataset_snu_cell_13_n
+RMSE: 28.982248306274414
+R2: 0.982731282711029
+
+Iteration 99 // dataset_snu_cell_07_f
+RMSE: 53.262386322021484
+R2: 0.930723249912262
+
+Iteration 99 // dataset_snu_cell_14_f
+RMSE: 20.572824478149414
+R2: 0.9912068843841553
+
+Iteration 99 // dataset_snu_cell_12_f
+RMSE: 50.84053421020508
+R2: 0.9439653754234314
+
+Iteration 99, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1683, Epochs: 1000, Sequence Length: 30
+Average RMSE: 48.7393913269043, Std Dev: 24.362548828125
+Average R2: 0.9316494762897491, Std Dev: 0.07164755362096019
+Data Name with Highest RMSE: dataset_snu_cell_05_n, RMSE: 96.77349853515625
+Data Name with Smallest R2: dataset_snu_cell_05_n, R2: 0.7783156633377075
+
+=============================================================================
+

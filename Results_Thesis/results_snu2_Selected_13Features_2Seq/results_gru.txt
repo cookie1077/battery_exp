@@ -3166,35 +3166,3 @@ Data Name with Smallest R2: dataset_snu_cell_05_f, R2: 0.8936998844146729
 
 =============================================================================
 
-Iteration 99 // dataset_snu_cell_09_n
-RMSE: 31.158119201660156
-R2: 0.9810463786125183
-
-Iteration 99 // dataset_snu_cell_05_n
-RMSE: 59.820919036865234
-R2: 0.9215803742408752
-
-Iteration 99 // dataset_snu_cell_13_n
-RMSE: 24.397504806518555
-R2: 0.9886126518249512
-
-Iteration 99 // dataset_snu_cell_07_f
-RMSE: 70.37203979492188
-R2: 0.8881779909133911
-
-Iteration 99 // dataset_snu_cell_14_f
-RMSE: 41.18978500366211
-R2: 0.9672124981880188
-
-Iteration 99 // dataset_snu_cell_12_f
-RMSE: 33.51400375366211
-R2: 0.9773848056793213
-
-Iteration 99, Selected Features: [2, 1, 146, 57, 141, 68, 25, 99, 95, 87, 78, 108, 152], Split_Seed: 1683, Epochs: 1000, Sequence Length: 2
-Average RMSE: 43.40872573852539, Std Dev: 16.384511947631836
-Average R2: 0.954002449909846, Std Dev: 0.03659355700571249
-Data Name with Highest RMSE: dataset_snu_cell_07_f, RMSE: 70.37203979492188
-Data Name with Smallest R2: dataset_snu_cell_07_f, R2: 0.8881779909133911
-
-=============================================================================
-
